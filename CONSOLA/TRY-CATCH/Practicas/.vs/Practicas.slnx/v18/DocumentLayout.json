@@ -1,14 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\",
+  "WorkspaceRootPath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00CFE20A-E893-4AC9-84C5-CD0CA4521E6B}|ejercicio02\\ejercicio02.csproj|d:\\jp\\ejercicios c# juan sebastian porras merchan\\consola\\try-catch\\practicas\\ejercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00CFE20A-E893-4AC9-84C5-CD0CA4521E6B}|ejercicio02\\ejercicio02.csproj|solutionrelative:ejercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DAA12F1-0E06-4EDD-9365-BA8A264DF4F0}|ejercicio08\\ejercicio08.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\try-catch\\practicas\\ejercicio08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAA12F1-0E06-4EDD-9365-BA8A264DF4F0}|ejercicio08\\ejercicio08.csproj|solutionrelative:ejercicio08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{849BD8DB-B499-47F7-A133-A80B1AEF9DFA}|ejercicio01\\ejercicio01.csproj|d:\\jp\\ejercicios c# juan sebastian porras merchan\\consola\\try-catch\\practicas\\ejercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10613D83-3393-4511-BF28-8452D2AD0B7B}|ejercicio07\\ejercicio07.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\try-catch\\practicas\\ejercicio07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10613D83-3393-4511-BF28-8452D2AD0B7B}|ejercicio07\\ejercicio07.csproj|solutionrelative:ejercicio07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91EEC062-4AAC-4889-97B9-C1E64C1AE6FD}|ejercicio06\\ejercicio06.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\try-catch\\practicas\\ejercicio06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91EEC062-4AAC-4889-97B9-C1E64C1AE6FD}|ejercicio06\\ejercicio06.csproj|solutionrelative:ejercicio06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426AE901-F65B-464F-BD6F-EDAE35F9F71F}|ejercicio05\\ejercicio05.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\try-catch\\practicas\\ejercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426AE901-F65B-464F-BD6F-EDAE35F9F71F}|ejercicio05\\ejercicio05.csproj|solutionrelative:ejercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4963E529-07F4-45CD-9DC1-9C4285DEB52C}|ejercicio03\\ejercicio03.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\try-catch\\practicas\\ejercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4963E529-07F4-45CD-9DC1-9C4285DEB52C}|ejercicio03\\ejercicio03.csproj|solutionrelative:ejercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED560FBC-DE9B-474A-9B88-0A2477DE4D6C}|ejercicio04\\ejercicio04.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\try-catch\\practicas\\ejercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED560FBC-DE9B-474A-9B88-0A2477DE4D6C}|ejercicio04\\ejercicio04.csproj|solutionrelative:ejercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849BD8DB-B499-47F7-A133-A80B1AEF9DFA}|ejercicio01\\ejercicio01.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{849BD8DB-B499-47F7-A133-A80B1AEF9DFA}|ejercicio01\\ejercicio01.csproj|solutionrelative:ejercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CFE20A-E893-4AC9-84C5-CD0CA4521E6B}|ejercicio02\\ejercicio02.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\try-catch\\practicas\\ejercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CFE20A-E893-4AC9-84C5-CD0CA4521E6B}|ejercicio02\\ejercicio02.csproj|solutionrelative:ejercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,24 +48,102 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio02\\Program.cs",
-              "RelativeDocumentMoniker": "ejercicio02\\Program.cs",
-              "ToolTip": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio02\\Program.cs",
-              "RelativeToolTip": "ejercicio02\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAA+AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio08\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio08\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio08\\Program.cs",
+              "RelativeToolTip": "ejercicio08\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-13T14:39:32.49Z",
+              "WhenOpened": "2026-08-14T02:20:23.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio07\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio07\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio07\\Program.cs",
+              "RelativeToolTip": "ejercicio07\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T01:53:50.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio06\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio06\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio06\\Program.cs",
+              "RelativeToolTip": "ejercicio06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T01:14:51.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio05\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio05\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio05\\Program.cs",
+              "RelativeToolTip": "ejercicio05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T00:50:39.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio04\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio04\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio04\\Program.cs",
+              "RelativeToolTip": "ejercicio04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T00:33:46.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio03\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio03\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio03\\Program.cs",
+              "RelativeToolTip": "ejercicio03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T00:19:49.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio02\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio02\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio02\\Program.cs",
+              "RelativeToolTip": "ejercicio02\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T14:39:32.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio01\\Program.cs",
               "RelativeDocumentMoniker": "ejercicio01\\Program.cs",
-              "ToolTip": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio01\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\TRY-CATCH\\Practicas\\ejercicio01\\Program.cs",
               "RelativeToolTip": "ejercicio01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-13T14:24:44.555Z",
               "EditorCaption": ""
