@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ARREGLOS\\Practicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C30DF68-EE9C-4C75-80B0-4F1632C1633B}|ejercicio04\\ejercicio04.csproj|d:\\jp\\ejercicios c# juan sebastian porras merchan\\consola\\arreglos\\practicas\\ejercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C30DF68-EE9C-4C75-80B0-4F1632C1633B}|ejercicio04\\ejercicio04.csproj|solutionrelative:ejercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB9027B-27F3-47A3-8B4A-FB8D4D120487}|ejercicio03\\ejercicio03.csproj|d:\\jp\\ejercicios c# juan sebastian porras merchan\\consola\\arreglos\\practicas\\ejercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB9027B-27F3-47A3-8B4A-FB8D4D120487}|ejercicio03\\ejercicio03.csproj|solutionrelative:ejercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE10116-0082-41AE-B292-A145548FE981}|ejercicio02\\ejercicio02.csproj|d:\\jp\\ejercicios c# juan sebastian porras merchan\\consola\\arreglos\\practicas\\ejercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE10116-0082-41AE-B292-A145548FE981}|ejercicio02\\ejercicio02.csproj|solutionrelative:ejercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24966BB8-D2C4-47A8-B610-E5898CA2A4B3}|ejercicio01\\ejercicio01.csproj|d:\\jp\\ejercicios c# juan sebastian porras merchan\\consola\\arreglos\\practicas\\ejercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24966BB8-D2C4-47A8-B610-E5898CA2A4B3}|ejercicio01\\ejercicio01.csproj|solutionrelative:ejercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ARREGLOS\\Practicas\\ejercicio04\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio04\\Program.cs",
+              "ToolTip": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ARREGLOS\\Practicas\\ejercicio04\\Program.cs",
+              "RelativeToolTip": "ejercicio04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T16:13:25.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ARREGLOS\\Practicas\\ejercicio03\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio03\\Program.cs",
+              "ToolTip": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ARREGLOS\\Practicas\\ejercicio03\\Program.cs",
+              "RelativeToolTip": "ejercicio03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T15:41:33.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ARREGLOS\\Practicas\\ejercicio02\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio02\\Program.cs",
+              "ToolTip": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ARREGLOS\\Practicas\\ejercicio02\\Program.cs",
+              "RelativeToolTip": "ejercicio02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T15:24:56.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ARREGLOS\\Practicas\\ejercicio01\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio01\\Program.cs",
+              "ToolTip": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ARREGLOS\\Practicas\\ejercicio01\\Program.cs",
+              "RelativeToolTip": "ejercicio01\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T11:15:34.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
