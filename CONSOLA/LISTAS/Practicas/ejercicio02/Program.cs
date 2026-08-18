@@ -1,19 +1,22 @@
 ﻿//Lista de compras: Cree una lista de 5 productos y muéstrelos todos.
 
+using ejercicio02;
+
 Console.WriteLine("=== LISTA DE COMPRAS ===");
 
 //Lista
-List<string> list = new List<string>();
-list.Add("Tomate - 4 lb");
-list.Add("Cebolla - 3 lb");
-list.Add("Carne de res - 6 lb");
-list.Add("Sal - 1 lb");
-list.Add("Aguacate - 2");
+List<Compras> list = new List<Compras>();
+list.Add(new Compras { Nombre = "Tomate", Cantidad = 4, Unidad = "lb" });
+list.Add(new Compras { Nombre = "Cebolla", Cantidad = 3, Unidad = "lb" });
+list.Add(new Compras { Nombre = "Carne de res", Cantidad = 6, Unidad = "lb" });
+list.Add(new Compras { Nombre = "Sal", Cantidad = 1, Unidad = "lb" });
+list.Add(new Compras { Nombre = "Aguacate", Cantidad = 2, Unidad = "unidades" });
+
 
 //Salida
 int cantidad = 1;
 foreach (var item in list)
 {
-    Console.WriteLine($"Producto {cantidad}: {item}");
+    Console.WriteLine($"Producto {cantidad}: {item.Nombre} - {item.Cantidad} {item.Unidad}");
     cantidad++;
 }
