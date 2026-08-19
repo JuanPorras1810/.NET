@@ -1,0 +1,10 @@
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASICOS\Practicas\ejercicio03\bin\Debug\ejercicio03.exe.config
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASICOS\Practicas\ejercicio03\bin\Debug\ejercicio03.exe
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASICOS\Practicas\ejercicio03\bin\Debug\ejercicio03.pdb
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASICOS\Practicas\ejercicio03\obj\Debug\ejercicio03.csproj.AssemblyReference.cache
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASICOS\Practicas\ejercicio03\obj\Debug\ejercicio03.Form1.resources
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASICOS\Practicas\ejercicio03\obj\Debug\ejercicio03.Properties.Resources.resources
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASICOS\Practicas\ejercicio03\obj\Debug\ejercicio03.csproj.GenerateResource.cache
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASICOS\Practicas\ejercicio03\obj\Debug\ejercicio03.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASICOS\Practicas\ejercicio03\obj\Debug\ejercicio03.exe
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASICOS\Practicas\ejercicio03\obj\Debug\ejercicio03.pdb
