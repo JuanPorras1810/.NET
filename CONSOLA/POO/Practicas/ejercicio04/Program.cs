@@ -14,7 +14,10 @@ namespace ejercicio04
 
             Console.WriteLine("=== PELICULA ===");
 
+            //Crea el objeto y envia los datos al constructor
             Pelicula peli1 = new Pelicula("Rápido y Furioso: Reto Tokio", "1h 44m", "Acción / Carreras");
+
+            //Salida
             peli1.Informacion();
 
         }

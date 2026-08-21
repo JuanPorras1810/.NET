@@ -8,10 +8,12 @@ namespace ejercicio01
 {
     internal class Vehiculo
     {
+        //Atributos
         public string marca;
         public string modelo;
         public int año;
 
+        //Metodo de salida
         public void Datos() 
         {
             Console.WriteLine("=== VEHICULO ===");

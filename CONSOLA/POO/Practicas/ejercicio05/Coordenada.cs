@@ -8,6 +8,7 @@ namespace ejercicio05
 {
     internal class Coordenada
     {
+        //Atributos
         public int y;
         public int x;
     

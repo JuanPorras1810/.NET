@@ -16,10 +16,9 @@ namespace ejercicio02
 
             //Enviar datos a la clase
             Estudiante estu1 = new Estudiante("Juan Porras", 1234, "ADSO");
-            estu1.Datos();
-            
-            
 
+            //Salida
+            estu1.Datos();
         }
     }
 }
