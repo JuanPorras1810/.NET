@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6CC23A-61EC-4948-B8D1-B70314E6F292}|ejercicio09\\ejercicio09.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\herencia\\practicas\\ejercicio09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6CC23A-61EC-4948-B8D1-B70314E6F292}|ejercicio09\\ejercicio09.csproj|solutionrelative:ejercicio09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6CC23A-61EC-4948-B8D1-B70314E6F292}|ejercicio09\\ejercicio09.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\herencia\\practicas\\ejercicio09\\herencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6CC23A-61EC-4948-B8D1-B70314E6F292}|ejercicio09\\ejercicio09.csproj|solutionrelative:ejercicio09\\herencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6CC23A-61EC-4948-B8D1-B70314E6F292}|ejercicio09\\ejercicio09.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\herencia\\practicas\\ejercicio09\\sealed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6CC23A-61EC-4948-B8D1-B70314E6F292}|ejercicio09\\ejercicio09.csproj|solutionrelative:ejercicio09\\sealed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F88426C-4CA0-4A10-A8CA-1C8EF8D2F777}|ejercicio08\\ejercicio08.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\herencia\\practicas\\ejercicio08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F88426C-4CA0-4A10-A8CA-1C8EF8D2F777}|ejercicio08\\ejercicio08.csproj|solutionrelative:ejercicio08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39D56F-C4E9-47A2-A755-29E9576F37B8}|ejercicio07\\ejercicio07.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\herencia\\practicas\\ejercicio07\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE39D56F-C4E9-47A2-A755-29E9576F37B8}|ejercicio07\\ejercicio07.csproj|solutionrelative:ejercicio07\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F88426C-4CA0-4A10-A8CA-1C8EF8D2F777}|ejercicio08\\ejercicio08.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\herencia\\practicas\\ejercicio08\\derivada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F88426C-4CA0-4A10-A8CA-1C8EF8D2F777}|ejercicio08\\ejercicio08.csproj|solutionrelative:ejercicio08\\derivada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F88426C-4CA0-4A10-A8CA-1C8EF8D2F777}|ejercicio08\\ejercicio08.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\herencia\\practicas\\ejercicio08\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F88426C-4CA0-4A10-A8CA-1C8EF8D2F777}|ejercicio08\\ejercicio08.csproj|solutionrelative:ejercicio08\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39D56F-C4E9-47A2-A755-29E9576F37B8}|ejercicio07\\ejercicio07.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\herencia\\practicas\\ejercicio07\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE39D56F-C4E9-47A2-A755-29E9576F37B8}|ejercicio07\\ejercicio07.csproj|solutionrelative:ejercicio07\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39D56F-C4E9-47A2-A755-29E9576F37B8}|ejercicio07\\ejercicio07.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\herencia\\practicas\\ejercicio07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE39D56F-C4E9-47A2-A755-29E9576F37B8}|ejercicio07\\ejercicio07.csproj|solutionrelative:ejercicio07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39D56F-C4E9-47A2-A755-29E9576F37B8}|ejercicio07\\ejercicio07.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\herencia\\practicas\\ejercicio07\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE39D56F-C4E9-47A2-A755-29E9576F37B8}|ejercicio07\\ejercicio07.csproj|solutionrelative:ejercicio07\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE39D56F-C4E9-47A2-A755-29E9576F37B8}|ejercicio07\\ejercicio07.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\herencia\\practicas\\ejercicio07\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE39D56F-C4E9-47A2-A755-29E9576F37B8}|ejercicio07\\ejercicio07.csproj|solutionrelative:ejercicio07\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B82BA2E-C080-49A5-9AF5-4A7EF4F96A37}|ejercicio02\\ejercicio02.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\herencia\\practicas\\ejercicio02\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B82BA2E-C080-49A5-9AF5-4A7EF4F96A37}|ejercicio02\\ejercicio02.csproj|solutionrelative:ejercicio02\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175090B9-9432-43E5-A310-8A0AD8FBE8D7}|ejercicio01\\ejercicio01.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio01\\autodeportivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175090B9-9432-43E5-A310-8A0AD8FBE8D7}|ejercicio01\\ejercicio01.csproj|solutionrelative:ejercicio01\\autodeportivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB716EA0-B922-4D02-8756-E9D03AC2D1CB}|ejercicio06\\ejercicio06.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\herencia\\practicas\\ejercicio06\\derivada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB716EA0-B922-4D02-8756-E9D03AC2D1CB}|ejercicio06\\ejercicio06.csproj|solutionrelative:ejercicio06\\derivada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB716EA0-B922-4D02-8756-E9D03AC2D1CB}|ejercicio06\\ejercicio06.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\herencia\\practicas\\ejercicio06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB716EA0-B922-4D02-8756-E9D03AC2D1CB}|ejercicio06\\ejercicio06.csproj|solutionrelative:ejercicio06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB716EA0-B922-4D02-8756-E9D03AC2D1CB}|ejercicio06\\ejercicio06.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\herencia\\practicas\\ejercicio06\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB716EA0-B922-4D02-8756-E9D03AC2D1CB}|ejercicio06\\ejercicio06.csproj|solutionrelative:ejercicio06\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Herencia.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio09\\Herencia.cs",
+              "RelativeDocumentMoniker": "ejercicio09\\Herencia.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio09\\Herencia.cs",
+              "RelativeToolTip": "ejercicio09\\Herencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T23:39:44.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sealed.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio09\\Sealed.cs",
+              "RelativeDocumentMoniker": "ejercicio09\\Sealed.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio09\\Sealed.cs",
+              "RelativeToolTip": "ejercicio09\\Sealed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T23:34:18.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio09\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio09\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio09\\Program.cs",
+              "RelativeToolTip": "ejercicio09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T23:29:02.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Derivada.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio08\\Derivada.cs",
+              "RelativeDocumentMoniker": "ejercicio08\\Derivada.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio08\\Derivada.cs",
+              "RelativeToolTip": "ejercicio08\\Derivada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:52:33.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio08\\Base.cs",
+              "RelativeDocumentMoniker": "ejercicio08\\Base.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio08\\Base.cs",
+              "RelativeToolTip": "ejercicio08\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:44:50.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio08\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio08\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio08\\Program.cs",
+              "RelativeToolTip": "ejercicio08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:43:36.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio02\\Estudiante.cs",
+              "RelativeDocumentMoniker": "ejercicio02\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio02\\Estudiante.cs",
+              "RelativeToolTip": "ejercicio02\\Estudiante.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:59:26.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutoDeportivo.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio01\\AutoDeportivo.cs",
+              "RelativeDocumentMoniker": "ejercicio01\\AutoDeportivo.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio01\\AutoDeportivo.cs",
+              "RelativeToolTip": "ejercicio01\\AutoDeportivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T14:42:01.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio07\\Triangulo.cs",
+              "RelativeDocumentMoniker": "ejercicio07\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio07\\Triangulo.cs",
+              "RelativeToolTip": "ejercicio07\\Triangulo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:57:48.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio07\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "ejercicio07\\Cuadrado.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio07\\Cuadrado.cs",
+              "RelativeToolTip": "ejercicio07\\Cuadrado.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:57:29.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio07\\Circulo.cs",
+              "RelativeDocumentMoniker": "ejercicio07\\Circulo.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio07\\Circulo.cs",
+              "RelativeToolTip": "ejercicio07\\Circulo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:57:14.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio07\\Figura.cs",
+              "RelativeDocumentMoniker": "ejercicio07\\Figura.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio07\\Figura.cs",
+              "RelativeToolTip": "ejercicio07\\Figura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:56:01.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio07\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio07\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio07\\Program.cs",
+              "RelativeToolTip": "ejercicio07\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:55:18.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Derivada.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio06\\Derivada.cs",
+              "RelativeDocumentMoniker": "ejercicio06\\Derivada.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio06\\Derivada.cs",
+              "RelativeToolTip": "ejercicio06\\Derivada.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:23:55.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio06\\Base.cs",
+              "RelativeDocumentMoniker": "ejercicio06\\Base.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio06\\Base.cs",
+              "RelativeToolTip": "ejercicio06\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:23:30.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio06\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio06\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\HERENCIA\\Practicas\\ejercicio06\\Program.cs",
+              "RelativeToolTip": "ejercicio06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:18:45.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
