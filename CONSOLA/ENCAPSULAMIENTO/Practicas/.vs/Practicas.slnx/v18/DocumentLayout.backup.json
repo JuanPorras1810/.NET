@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE452047-EC24-4476-B9D9-62E7F780DF83}|ejercicio06\\ejercicio06.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\encapsulamiento\\practicas\\ejercicio06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE452047-EC24-4476-B9D9-62E7F780DF83}|ejercicio06\\ejercicio06.csproj|solutionrelative:ejercicio06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE452047-EC24-4476-B9D9-62E7F780DF83}|ejercicio06\\ejercicio06.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\encapsulamiento\\practicas\\ejercicio06\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE452047-EC24-4476-B9D9-62E7F780DF83}|ejercicio06\\ejercicio06.csproj|solutionrelative:ejercicio06\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EA88BB-D8FB-471F-9AA7-6829245E1966}|ejercicio05\\ejercicio05.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\encapsulamiento\\practicas\\ejercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EA88BB-D8FB-471F-9AA7-6829245E1966}|ejercicio05\\ejercicio05.csproj|solutionrelative:ejercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EA88BB-D8FB-471F-9AA7-6829245E1966}|ejercicio05\\ejercicio05.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\encapsulamiento\\practicas\\ejercicio05\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EA88BB-D8FB-471F-9AA7-6829245E1966}|ejercicio05\\ejercicio05.csproj|solutionrelative:ejercicio05\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3C0C21-5F8A-453A-B689-C45ADC7DB7EE}|ejercicio02\\ejercicio02.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\encapsulamiento\\practicas\\ejercicio02\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3C0C21-5F8A-453A-B689-C45ADC7DB7EE}|ejercicio02\\ejercicio02.csproj|solutionrelative:ejercicio02\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3C0C21-5F8A-453A-B689-C45ADC7DB7EE}|ejercicio02\\ejercicio02.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C3C0C21-5F8A-453A-B689-C45ADC7DB7EE}|ejercicio02\\ejercicio02.csproj|solutionrelative:ejercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50895F69-B3C4-419F-AFE2-92FFA7138F8C}|ejercicio04\\ejercicio04.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50895F69-B3C4-419F-AFE2-92FFA7138F8C}|ejercicio04\\ejercicio04.csproj|solutionrelative:ejercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35002DD8-C24A-4B25-99DC-F8A54B82C48E}|ejercicio01\\ejercicio01.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35002DD8-C24A-4B25-99DC-F8A54B82C48E}|ejercicio01\\ejercicio01.csproj|solutionrelative:ejercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35002DD8-C24A-4B25-99DC-F8A54B82C48E}|ejercicio01\\ejercicio01.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio01\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35002DD8-C24A-4B25-99DC-F8A54B82C48E}|ejercicio01\\ejercicio01.csproj|solutionrelative:ejercicio01\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50895F69-B3C4-419F-AFE2-92FFA7138F8C}|ejercicio04\\ejercicio04.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio04\\validacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50895F69-B3C4-419F-AFE2-92FFA7138F8C}|ejercicio04\\ejercicio04.csproj|solutionrelative:ejercicio04\\validacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3E5A98-717E-4147-98B7-F88D06714BE8}|ejercicio03\\ejercicio03.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio03\\contador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3E5A98-717E-4147-98B7-F88D06714BE8}|ejercicio03\\ejercicio03.csproj|solutionrelative:ejercicio03\\contador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3E5A98-717E-4147-98B7-F88D06714BE8}|ejercicio03\\ejercicio03.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3E5A98-717E-4147-98B7-F88D06714BE8}|ejercicio03\\ejercicio03.csproj|solutionrelative:ejercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio06\\Producto.cs",
+              "RelativeDocumentMoniker": "ejercicio06\\Producto.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio06\\Producto.cs",
+              "RelativeToolTip": "ejercicio06\\Producto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T05:29:56.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio06\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio06\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio06\\Program.cs",
+              "RelativeToolTip": "ejercicio06\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wBkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T05:28:01.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio05\\Persona.cs",
+              "RelativeDocumentMoniker": "ejercicio05\\Persona.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio05\\Persona.cs",
+              "RelativeToolTip": "ejercicio05\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T05:15:32.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio05\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio05\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio05\\Program.cs",
+              "RelativeToolTip": "ejercicio05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T05:15:12.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Validacion.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio04\\Validacion.cs",
+              "RelativeDocumentMoniker": "ejercicio04\\Validacion.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio04\\Validacion.cs",
+              "RelativeToolTip": "ejercicio04\\Validacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T04:25:12.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio04\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio04\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio04\\Program.cs",
+              "RelativeToolTip": "ejercicio04\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T04:23:26.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contador.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio03\\Contador.cs",
+              "RelativeDocumentMoniker": "ejercicio03\\Contador.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio03\\Contador.cs",
+              "RelativeToolTip": "ejercicio03\\Contador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T04:11:53.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio03\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio03\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio03\\Program.cs",
+              "RelativeToolTip": "ejercicio03\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T04:07:55.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio02\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "ejercicio02\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio02\\Rectangulo.cs",
+              "RelativeToolTip": "ejercicio02\\Rectangulo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:49:41.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio02\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio02\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio02\\Program.cs",
+              "RelativeToolTip": "ejercicio02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:49:06.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio01\\Libro.cs",
+              "RelativeDocumentMoniker": "ejercicio01\\Libro.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio01\\Libro.cs",
+              "RelativeToolTip": "ejercicio01\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T02:52:13.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio01\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio01\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\ENCAPSULAMIENTO\\Practicas\\ejercicio01\\Program.cs",
+              "RelativeToolTip": "ejercicio01\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T02:39:29.072Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
