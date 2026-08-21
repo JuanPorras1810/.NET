@@ -8,8 +8,10 @@ namespace ejercicio03
 {
     internal class NumeroDoble
     {
+        //Atributo
         public int numero;
 
+        //Metodo para duplicar numero
         public int Operacion(int numero) 
         {
             return numero * 2;

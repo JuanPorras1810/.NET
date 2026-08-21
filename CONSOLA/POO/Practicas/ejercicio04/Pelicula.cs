@@ -8,10 +8,12 @@ namespace ejercicio04
 {
     internal class Pelicula
     {
+        //Atributos
         public string titulo;
         public string duracion;
         public string genero;
 
+        //Constructor vacio
         public Pelicula()
         {
             titulo = "";
@@ -20,6 +22,7 @@ namespace ejercicio04
 
         }
 
+        //Constructor con datos
         public Pelicula(string tit, string dura, string gen)
         {
             titulo = tit;
@@ -27,6 +30,7 @@ namespace ejercicio04
             genero = gen;
         }
 
+        //Metodo de salida
         public void Informacion()
         {
             Console.WriteLine($"Título: {titulo}");
