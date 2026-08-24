@@ -3,24 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A247B730-8B95-4FC8-821A-7D0F7B6FDF2D}|ejercicio04\\ejercicio04.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A247B730-8B95-4FC8-821A-7D0F7B6FDF2D}|ejercicio04\\ejercicio04.csproj|solutionrelative:ejercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA85786F-6523-41FD-9696-DFF9973A2956}|ejercicio06\\ejercicio06.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA85786F-6523-41FD-9696-DFF9973A2956}|ejercicio06\\ejercicio06.csproj|solutionrelative:ejercicio06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A247B730-8B95-4FC8-821A-7D0F7B6FDF2D}|ejercicio04\\ejercicio04.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio04\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A247B730-8B95-4FC8-821A-7D0F7B6FDF2D}|ejercicio04\\ejercicio04.csproj|solutionrelative:ejercicio04\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA85786F-6523-41FD-9696-DFF9973A2956}|ejercicio06\\ejercicio06.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio06\\impresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA85786F-6523-41FD-9696-DFF9973A2956}|ejercicio06\\ejercicio06.csproj|solutionrelative:ejercicio06\\impresora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A247B730-8B95-4FC8-821A-7D0F7B6FDF2D}|ejercicio04\\ejercicio04.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio04\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A247B730-8B95-4FC8-821A-7D0F7B6FDF2D}|ejercicio04\\ejercicio04.csproj|solutionrelative:ejercicio04\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA85786F-6523-41FD-9696-DFF9973A2956}|ejercicio06\\ejercicio06.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio06\\foto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA85786F-6523-41FD-9696-DFF9973A2956}|ejercicio06\\ejercicio06.csproj|solutionrelative:ejercicio06\\foto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A247B730-8B95-4FC8-821A-7D0F7B6FDF2D}|ejercicio04\\ejercicio04.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio04\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A247B730-8B95-4FC8-821A-7D0F7B6FDF2D}|ejercicio04\\ejercicio04.csproj|solutionrelative:ejercicio04\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA85786F-6523-41FD-9696-DFF9973A2956}|ejercicio06\\ejercicio06.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio06\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA85786F-6523-41FD-9696-DFF9973A2956}|ejercicio06\\ejercicio06.csproj|solutionrelative:ejercicio06\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A247B730-8B95-4FC8-821A-7D0F7B6FDF2D}|ejercicio04\\ejercicio04.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio04\\ejercicio04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A247B730-8B95-4FC8-821A-7D0F7B6FDF2D}|ejercicio04\\ejercicio04.csproj|solutionrelative:ejercicio04\\ejercicio04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EA85786F-6523-41FD-9696-DFF9973A2956}|ejercicio06\\ejercicio06.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio06\\iimprimible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA85786F-6523-41FD-9696-DFF9973A2956}|ejercicio06\\ejercicio06.csproj|solutionrelative:ejercicio06\\iimprimible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847E6894-EC43-4806-8929-B1B147497E22}|ejercicio05\\ejercicio05.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio05\\foto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847E6894-EC43-4806-8929-B1B147497E22}|ejercicio05\\ejercicio05.csproj|solutionrelative:ejercicio05\\foto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847E6894-EC43-4806-8929-B1B147497E22}|ejercicio05\\ejercicio05.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio05\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847E6894-EC43-4806-8929-B1B147497E22}|ejercicio05\\ejercicio05.csproj|solutionrelative:ejercicio05\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847E6894-EC43-4806-8929-B1B147497E22}|ejercicio05\\ejercicio05.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio05\\iimprimible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847E6894-EC43-4806-8929-B1B147497E22}|ejercicio05\\ejercicio05.csproj|solutionrelative:ejercicio05\\iimprimible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847E6894-EC43-4806-8929-B1B147497E22}|ejercicio05\\ejercicio05.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847E6894-EC43-4806-8929-B1B147497E22}|ejercicio05\\ejercicio05.csproj|solutionrelative:ejercicio05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|ejercicio04\\ejercicio04.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio04\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|ejercicio04\\ejercicio04.csproj|solutionrelative:ejercicio04\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|ejercicio04\\ejercicio04.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|ejercicio04\\ejercicio04.csproj|solutionrelative:ejercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|ejercicio04\\ejercicio04.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio04\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|ejercicio04\\ejercicio04.csproj|solutionrelative:ejercicio04\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|ejercicio04\\ejercicio04.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio04\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|ejercicio04\\ejercicio04.csproj|solutionrelative:ejercicio04\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|ejercicio04\\ejercicio04.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio04\\ejercicio04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16438703-3078-1BBB-9ABC-3500DB477828}|ejercicio04\\ejercicio04.csproj|solutionrelative:ejercicio04\\ejercicio04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1DDDC5-E0A8-1823-07FE-0394AE7868DD}|ejercicio03\\ejercicio03.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio03\\vaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1DDDC5-E0A8-1823-07FE-0394AE7868DD}|ejercicio03\\ejercicio03.csproj|solutionrelative:ejercicio03\\vaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1DDDC5-E0A8-1823-07FE-0394AE7868DD}|ejercicio03\\ejercicio03.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio03\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1DDDC5-E0A8-1823-07FE-0394AE7868DD}|ejercicio03\\ejercicio03.csproj|solutionrelative:ejercicio03\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1DDDC5-E0A8-1823-07FE-0394AE7868DD}|ejercicio03\\ejercicio03.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio03\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1DDDC5-E0A8-1823-07FE-0394AE7868DD}|ejercicio03\\ejercicio03.csproj|solutionrelative:ejercicio03\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1DDDC5-E0A8-1823-07FE-0394AE7868DD}|ejercicio03\\ejercicio03.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio03\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1DDDC5-E0A8-1823-07FE-0394AE7868DD}|ejercicio03\\ejercicio03.csproj|solutionrelative:ejercicio03\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1DDDC5-E0A8-1823-07FE-0394AE7868DD}|ejercicio03\\ejercicio03.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1DDDC5-E0A8-1823-07FE-0394AE7868DD}|ejercicio03\\ejercicio03.csproj|solutionrelative:ejercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1DDDC5-E0A8-1823-07FE-0394AE7868DD}|ejercicio03\\ejercicio03.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio03\\ejercicio03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F1DDDC5-E0A8-1823-07FE-0394AE7868DD}|ejercicio03\\ejercicio03.csproj|solutionrelative:ejercicio03\\ejercicio03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5297C741-2B99-A503-5DAA-D2FB0CD32E8C}|ejercicio02\\ejercicio02.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio02\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5297C741-2B99-A503-5DAA-D2FB0CD32E8C}|ejercicio02\\ejercicio02.csproj|solutionrelative:ejercicio02\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5297C741-2B99-A503-5DAA-D2FB0CD32E8C}|ejercicio02\\ejercicio02.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio02\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5297C741-2B99-A503-5DAA-D2FB0CD32E8C}|ejercicio02\\ejercicio02.csproj|solutionrelative:ejercicio02\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9A5D4A-D9E8-4AA9-B3A0-6AF998B11EEE}|ejercicio01\\ejercicio01.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio01\\sobrecarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9A5D4A-D9E8-4AA9-B3A0-6AF998B11EEE}|ejercicio01\\ejercicio01.csproj|solutionrelative:ejercicio01\\sobrecarga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9A5D4A-D9E8-4AA9-B3A0-6AF998B11EEE}|ejercicio01\\ejercicio01.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\consola\\polimorfismo\\practicas\\ejercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9A5D4A-D9E8-4AA9-B3A0-6AF998B11EEE}|ejercicio01\\ejercicio01.csproj|solutionrelative:ejercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,34 +110,177 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio05\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio05\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio05\\Program.cs",
+              "RelativeToolTip": "ejercicio05\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T15:12:34.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Foto.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio05\\Foto.cs",
+              "RelativeDocumentMoniker": "ejercicio05\\Foto.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio05\\Foto.cs",
+              "RelativeToolTip": "ejercicio05\\Foto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T15:15:17.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio05\\Documento.cs",
+              "RelativeDocumentMoniker": "ejercicio05\\Documento.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio05\\Documento.cs",
+              "RelativeToolTip": "ejercicio05\\Documento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T15:15:08.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IImprimible.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio05\\IImprimible.cs",
+              "RelativeDocumentMoniker": "ejercicio05\\IImprimible.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio05\\IImprimible.cs",
+              "RelativeToolTip": "ejercicio05\\IImprimible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T15:13:39.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio06\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio06\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio06\\Program.cs",
+              "RelativeToolTip": "ejercicio06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T15:56:23.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IImprimible.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio06\\IImprimible.cs",
+              "RelativeDocumentMoniker": "ejercicio06\\IImprimible.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio06\\IImprimible.cs",
+              "RelativeToolTip": "ejercicio06\\IImprimible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T16:09:42.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio06\\Documento.cs",
+              "RelativeDocumentMoniker": "ejercicio06\\Documento.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio06\\Documento.cs",
+              "RelativeToolTip": "ejercicio06\\Documento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T16:05:26.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Foto.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio06\\Foto.cs",
+              "RelativeDocumentMoniker": "ejercicio06\\Foto.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio06\\Foto.cs",
+              "RelativeToolTip": "ejercicio06\\Foto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T16:05:45.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Impresora.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio06\\Impresora.cs",
+              "RelativeDocumentMoniker": "ejercicio06\\Impresora.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio06\\Impresora.cs",
+              "RelativeToolTip": "ejercicio06\\Impresora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T16:04:20.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Cuadrado.cs",
               "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio04\\Cuadrado.cs",
               "RelativeDocumentMoniker": "ejercicio04\\Cuadrado.cs",
               "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio04\\Cuadrado.cs",
               "RelativeToolTip": "ejercicio04\\Cuadrado.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBQAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-23T01:28:06.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio04\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio04\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio04\\Program.cs",
+              "RelativeToolTip": "ejercicio04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T01:10:27.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Circulo.cs",
               "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio04\\Circulo.cs",
               "RelativeDocumentMoniker": "ejercicio04\\Circulo.cs",
               "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio04\\Circulo.cs",
               "RelativeToolTip": "ejercicio04\\Circulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-23T01:27:46.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ejercicio04",
+              "DocumentIndex": 12,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio04\\Area.cs",
+              "RelativeDocumentMoniker": "ejercicio04\\Area.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio04\\Area.cs",
+              "RelativeToolTip": "ejercicio04\\Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T01:24:10.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ejercicio04.csproj",
               "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio04\\ejercicio04.csproj",
               "RelativeDocumentMoniker": "ejercicio04\\ejercicio04.csproj",
               "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio04\\ejercicio04.csproj",
@@ -73,28 +292,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Area.cs",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio04\\Area.cs",
-              "RelativeDocumentMoniker": "ejercicio04\\Area.cs",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio04\\Area.cs",
-              "RelativeToolTip": "ejercicio04\\Area.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Vaca.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio03\\Vaca.cs",
+              "RelativeDocumentMoniker": "ejercicio03\\Vaca.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio03\\Vaca.cs",
+              "RelativeToolTip": "ejercicio03\\Vaca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-23T01:24:10.053Z",
+              "WhenOpened": "2026-08-24T00:04:12.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio04\\Program.cs",
-              "RelativeDocumentMoniker": "ejercicio04\\Program.cs",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio04\\Program.cs",
-              "RelativeToolTip": "ejercicio04\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio03\\Perro.cs",
+              "RelativeDocumentMoniker": "ejercicio03\\Perro.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio03\\Perro.cs",
+              "RelativeToolTip": "ejercicio03\\Perro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-23T01:10:27.146Z",
+              "WhenOpened": "2026-08-24T00:03:35.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Gato.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio03\\Gato.cs",
+              "RelativeDocumentMoniker": "ejercicio03\\Gato.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio03\\Gato.cs",
+              "RelativeToolTip": "ejercicio03\\Gato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:03:06.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio03\\Animal.cs",
+              "RelativeDocumentMoniker": "ejercicio03\\Animal.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio03\\Animal.cs",
+              "RelativeToolTip": "ejercicio03\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T00:01:23.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ejercicio03",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio03\\ejercicio03.csproj",
+              "RelativeDocumentMoniker": "ejercicio03\\ejercicio03.csproj",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio03\\ejercicio03.csproj",
+              "RelativeToolTip": "ejercicio03\\ejercicio03.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-23T23:57:06.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio02\\Auto.cs",
+              "RelativeDocumentMoniker": "ejercicio02\\Auto.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio02\\Auto.cs",
+              "RelativeToolTip": "ejercicio02\\Auto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T23:56:34.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio02\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "ejercicio02\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio02\\Vehiculo.cs",
+              "RelativeToolTip": "ejercicio02\\Vehiculo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T23:53:19.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Sobrecarga.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio01\\Sobrecarga.cs",
+              "RelativeDocumentMoniker": "ejercicio01\\Sobrecarga.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio01\\Sobrecarga.cs",
+              "RelativeToolTip": "ejercicio01\\Sobrecarga.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T23:45:09.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio01\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio01\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio01\\Program.cs",
+              "RelativeToolTip": "ejercicio01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T23:31:16.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio03\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio03\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\CONSOLA\\POLIMORFISMO\\Practicas\\ejercicio03\\Program.cs",
+              "RelativeToolTip": "ejercicio03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T15:36:26.899Z",
               "EditorCaption": ""
             }
           ]
