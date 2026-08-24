@@ -1,0 +1,14 @@
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\ABSTRACCION\Practicas\ejercicio06\bin\Debug\net10.0\ejercicio06.exe
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\ABSTRACCION\Practicas\ejercicio06\bin\Debug\net10.0\ejercicio06.deps.json
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\ABSTRACCION\Practicas\ejercicio06\bin\Debug\net10.0\ejercicio06.runtimeconfig.json
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\ABSTRACCION\Practicas\ejercicio06\bin\Debug\net10.0\ejercicio06.dll
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\ABSTRACCION\Practicas\ejercicio06\bin\Debug\net10.0\ejercicio06.pdb
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\ABSTRACCION\Practicas\ejercicio06\obj\Debug\net10.0\ejercicio06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\ABSTRACCION\Practicas\ejercicio06\obj\Debug\net10.0\ejercicio06.AssemblyInfoInputs.cache
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\ABSTRACCION\Practicas\ejercicio06\obj\Debug\net10.0\ejercicio06.AssemblyInfo.cs
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\ABSTRACCION\Practicas\ejercicio06\obj\Debug\net10.0\ejercicio06.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\ABSTRACCION\Practicas\ejercicio06\obj\Debug\net10.0\ejercicio06.dll
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\ABSTRACCION\Practicas\ejercicio06\obj\Debug\net10.0\refint\ejercicio06.dll
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\ABSTRACCION\Practicas\ejercicio06\obj\Debug\net10.0\ejercicio06.pdb
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\ABSTRACCION\Practicas\ejercicio06\obj\Debug\net10.0\ejercicio06.genruntimeconfig.cache
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\ABSTRACCION\Practicas\ejercicio06\obj\Debug\net10.0\ref\ejercicio06.dll
