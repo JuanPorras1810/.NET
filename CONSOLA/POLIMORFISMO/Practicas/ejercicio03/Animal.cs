@@ -7,8 +7,6 @@ namespace ejercicio03
     internal class Animal
     {
         //Metodo base para el sonido de los animales
-        public virtual void HacerSonido() 
-        {
-        }
+        public virtual void HacerSonido() {}
     }
 }
