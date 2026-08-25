@@ -245,7 +245,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "FrmPagoEmpleados";
-            this.Text = "form1";
+            this.Text = "Control de pago";
             this.Load += new System.EventHandler(this.FrmPagoEmpleados_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
