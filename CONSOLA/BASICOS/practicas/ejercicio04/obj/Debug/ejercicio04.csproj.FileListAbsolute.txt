@@ -1,7 +1,0 @@
-D:\JP\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\BASICOS\practicas\ejercicio04\bin\Debug\ejercicio04.exe.config
-D:\JP\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\BASICOS\practicas\ejercicio04\bin\Debug\ejercicio04.exe
-D:\JP\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\BASICOS\practicas\ejercicio04\bin\Debug\ejercicio04.pdb
-D:\JP\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\BASICOS\practicas\ejercicio04\obj\Debug\ejercicio04.csproj.AssemblyReference.cache
-D:\JP\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\BASICOS\practicas\ejercicio04\obj\Debug\ejercicio04.csproj.CoreCompileInputs.cache
-D:\JP\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\BASICOS\practicas\ejercicio04\obj\Debug\ejercicio04.exe
-D:\JP\Ejercicios C# Juan Sebastian Porras Merchan\CONSOLA\BASICOS\practicas\ejercicio04\obj\Debug\ejercicio04.pdb
