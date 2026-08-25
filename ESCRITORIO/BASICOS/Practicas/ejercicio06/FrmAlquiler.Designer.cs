@@ -330,7 +330,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "FrmAlquiler";
-            this.Text = "Form1";
+            this.Text = "Registro alquiler";
             this.Load += new System.EventHandler(this.FrmAlquiler_Load);
             ((System.ComponentModel.ISupportInitialize)(this.EpError)).EndInit();
             this.ResumeLayout(false);
