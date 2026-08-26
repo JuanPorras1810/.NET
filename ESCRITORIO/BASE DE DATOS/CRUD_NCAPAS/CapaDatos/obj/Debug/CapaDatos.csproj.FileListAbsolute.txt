@@ -1,0 +1,12 @@
+D:\JP\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\CRUD_NCAPAS\CapaDatos\bin\Debug\CapaDatos.dll
+D:\JP\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\CRUD_NCAPAS\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\JP\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\CRUD_NCAPAS\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\JP\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\CRUD_NCAPAS\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\JP\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\CRUD_NCAPAS\CapaDatos\obj\Debug\CapaDatos.dll
+D:\JP\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\CRUD_NCAPAS\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\CRUD_NCAPAS\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\CRUD_NCAPAS\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\CRUD_NCAPAS\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\CRUD_NCAPAS\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\CRUD_NCAPAS\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\CRUD_NCAPAS\CapaDatos\obj\Debug\CapaDatos.pdb
