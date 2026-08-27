@@ -43,14 +43,17 @@
             this.TxtStock = new System.Windows.Forms.TextBox();
             this.BtnEditar = new System.Windows.Forms.Button();
             this.BtnEliminar = new System.Windows.Forms.Button();
+            this.BtnCancelar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.DgvProductos)).BeginInit();
             this.SuspendLayout();
             // 
             // DgvProductos
             // 
             this.DgvProductos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.DgvProductos.EditMode = System.Windows.Forms.DataGridViewEditMode.EditProgrammatically;
             this.DgvProductos.Location = new System.Drawing.Point(12, 12);
             this.DgvProductos.Name = "DgvProductos";
+            this.DgvProductos.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.DgvProductos.Size = new System.Drawing.Size(657, 426);
             this.DgvProductos.TabIndex = 0;
             // 
@@ -58,7 +61,7 @@
             // 
             this.BtnGuardar.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnGuardar.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.BtnGuardar.Location = new System.Drawing.Point(861, 366);
+            this.BtnGuardar.Location = new System.Drawing.Point(713, 370);
             this.BtnGuardar.Name = "BtnGuardar";
             this.BtnGuardar.Size = new System.Drawing.Size(142, 43);
             this.BtnGuardar.TabIndex = 1;
@@ -191,11 +194,24 @@
             this.BtnEliminar.UseVisualStyleBackColor = true;
             this.BtnEliminar.Click += new System.EventHandler(this.BtnEliminar_Click);
             // 
+            // BtnCancelar
+            // 
+            this.BtnCancelar.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnCancelar.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.BtnCancelar.Location = new System.Drawing.Point(885, 370);
+            this.BtnCancelar.Name = "BtnCancelar";
+            this.BtnCancelar.Size = new System.Drawing.Size(142, 43);
+            this.BtnCancelar.TabIndex = 16;
+            this.BtnCancelar.Text = "Cancelar";
+            this.BtnCancelar.UseVisualStyleBackColor = true;
+            this.BtnCancelar.Click += new System.EventHandler(this.BtnCancelar_Click);
+            // 
             // FrmProductos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1066, 535);
+            this.Controls.Add(this.BtnCancelar);
             this.Controls.Add(this.BtnEliminar);
             this.Controls.Add(this.BtnEditar);
             this.Controls.Add(this.TxtStock);
@@ -237,5 +253,6 @@
         private System.Windows.Forms.TextBox TxtStock;
         private System.Windows.Forms.Button BtnEditar;
         private System.Windows.Forms.Button BtnEliminar;
+        private System.Windows.Forms.Button BtnCancelar;
     }
 }

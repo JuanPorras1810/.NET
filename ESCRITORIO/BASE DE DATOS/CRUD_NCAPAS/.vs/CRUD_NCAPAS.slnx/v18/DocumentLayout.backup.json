@@ -1,12 +1,69 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\CRUD_NCAPAS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2106F2-E4FE-408E-BD92-6B1D79A2E2FB}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\CRUD_NCAPAS\\capapresentacion\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D2106F2-E4FE-408E-BD92-6B1D79A2E2FB}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2106F2-E4FE-408E-BD92-6B1D79A2E2FB}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\base de datos\\crud_ncapas\\capapresentacion\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2106F2-E4FE-408E-BD92-6B1D79A2E2FB}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2106F2-E4FE-408E-BD92-6B1D79A2E2FB}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\CRUD_NCAPAS\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2106F2-E4FE-408E-BD92-6B1D79A2E2FB}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\CRUD_NCAPAS\\CapaPresentacion\\FrmProductos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmProductos.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\CRUD_NCAPAS\\CapaPresentacion\\FrmProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T22:58:00.303Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\CRUD_NCAPAS\\CapaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\CRUD_NCAPAS\\CapaPresentacion\\Program.cs",
+              "RelativeToolTip": "CapaPresentacion\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:26:05.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmProductos.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\CRUD_NCAPAS\\CapaPresentacion\\FrmProductos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmProductos.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\CRUD_NCAPAS\\CapaPresentacion\\FrmProductos.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmProductos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T12:26:09.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

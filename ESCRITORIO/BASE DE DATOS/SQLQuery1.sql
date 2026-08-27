@@ -42,27 +42,27 @@
 
 	---INSERTAR
 	create proc InsertarProductos
-	@Nombre nvarchar (100),
-	@Descripcion nvarchar (100),
-	@Marca nvarchar (100),
-	@Precio float,
-	@Stock int
+	@nombre nvarchar (100),
+	@descripcion nvarchar (100),
+	@marca nvarchar (100),
+	@precio float,
+	@stock int
 	as
-	insert into Productos values (@Nombre,@Descripcion,@Marca,@Precio,@Stock);
+	insert into Productos values (@nombre,@descripcion,@marca,@precio,@stock);
 
 	---ELIMINAR
 	create proc EliminarProducto
-	@Id int
+	@id int
 	as
-	delete from Productos where Id = @Id
+	delete from Productos where Id = @id
 
 	---EDITAR
 	create proc EditarProductos
-	@Nombre nvarchar (100),
-	@Descripcion nvarchar (100),
-	@Marca nvarchar (100),
-	@Precio float,
-	@Stock int,
-	@Id int
+	@nombre nvarchar (100),
+	@descripcion nvarchar (100),
+	@marca nvarchar (100),
+	@precio float,
+	@stock int,
+	@id int
 	as 
-	update Productos set Nombre=@Nombre, Descripcion=@Descripcion, Marca=@Marca, Precio=@Precio, Stock=@Stock where Id=@Id
+	update Productos set Nombre=@nombre, Descripcion=@descripcion, Marca=@marca, Precio=@precio, Stock=@stock where Id=@id

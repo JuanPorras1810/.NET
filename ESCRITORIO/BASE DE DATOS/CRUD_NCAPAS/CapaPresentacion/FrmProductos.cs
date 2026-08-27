@@ -26,6 +26,7 @@ namespace CapaPresentacion
         private void FrmProductos_Load(object sender, EventArgs e)
         {
             CargarDgvProductos();
+            DgvProductos.ClearSelection();
         }
         private void BtnGuardar_Click(object sender, EventArgs e)
         {
@@ -98,6 +99,10 @@ namespace CapaPresentacion
             TxtNombre.Focus();
         }
 
-        
+        private void BtnCancelar_Click(object sender, EventArgs e)
+        {
+            editar = false;
+            Limpiar();
+        }
     }
 }

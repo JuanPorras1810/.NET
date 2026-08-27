@@ -37,11 +37,11 @@ namespace CapaDatos
                 using (SqlCommand comando = new SqlCommand("InsertarProductos",con))
                 {
                     comando.CommandType = CommandType.StoredProcedure;
-                    comando.Parameters.AddWithValue("@Nombre", nombre);
-                    comando.Parameters.AddWithValue("@Descripcion", descripcion);
-                    comando.Parameters.AddWithValue("@Marca", marca);
-                    comando.Parameters.AddWithValue("@Precio", precio);
-                    comando.Parameters.AddWithValue("@Stock", stock);
+                    comando.Parameters.AddWithValue("@nombre", nombre);
+                    comando.Parameters.AddWithValue("@descripcion", descripcion);
+                    comando.Parameters.AddWithValue("@marca", marca);
+                    comando.Parameters.AddWithValue("@precio", precio);
+                    comando.Parameters.AddWithValue("@stock", stock);
                     comando.ExecuteNonQuery();
                 }
 
@@ -56,13 +56,13 @@ namespace CapaDatos
                 using (SqlCommand comando = new SqlCommand("EditarProductos", con))
                 {
                     comando.CommandType = CommandType.StoredProcedure;
-                    comando.Parameters.AddWithValue("@Id", id);
-                    comando.Parameters.AddWithValue("@Nombre", nombre);
-                    comando.Parameters.AddWithValue("@Descripcion", descripcion);
-                    comando.Parameters.AddWithValue("@Marca", marca);
-                    comando.Parameters.AddWithValue("@Precio", precio);
-                    comando.Parameters.AddWithValue("@Stock", stock);
-                    comando.ExecuteNonQuery() ;
+                    comando.Parameters.AddWithValue("@id", id);
+                    comando.Parameters.AddWithValue("@nombre", nombre);
+                    comando.Parameters.AddWithValue("@descripcion", descripcion);
+                    comando.Parameters.AddWithValue("@marca", marca);
+                    comando.Parameters.AddWithValue("@precio", precio);
+                    comando.Parameters.AddWithValue("@stock", stock);
+                    comando.ExecuteNonQuery();
                 }
             }
         }
@@ -75,7 +75,7 @@ namespace CapaDatos
                 using (SqlCommand comando = new SqlCommand("EliminarProducto", con))
                 {
                     comando.CommandType = CommandType.StoredProcedure;
-                    comando.Parameters.AddWithValue("@Id", id);
+                    comando.Parameters.AddWithValue("@id", id);
                     comando.ExecuteNonQuery();
                 }
 
