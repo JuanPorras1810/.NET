@@ -1,0 +1,6 @@
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.Entities\bin\Debug\ProductoApp.Entities.dll
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.Entities\bin\Debug\ProductoApp.Entities.pdb
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.Entities\obj\Debug\ProductoApp.Entities.csproj.AssemblyReference.cache
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.Entities\obj\Debug\ProductoApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.Entities\obj\Debug\ProductoApp.Entities.dll
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.Entities\obj\Debug\ProductoApp.Entities.pdb

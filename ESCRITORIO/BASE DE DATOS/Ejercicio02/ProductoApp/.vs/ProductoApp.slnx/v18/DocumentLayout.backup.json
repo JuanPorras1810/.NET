@@ -1,14 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio03\\ProductoApp\\",
+  "WorkspaceRootPath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10C93D22-ADC5-4C48-B601-E8E02A385E31}|ProductoApp.Entities\\ProductoApp.Entities.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\base de datos\\ejercicio03\\productoapp\\productoapp.entities\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10C93D22-ADC5-4C48-B601-E8E02A385E31}|ProductoApp.Entities\\ProductoApp.Entities.csproj|solutionrelative:productoapp.entities\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2CA67D5-86EA-4250-9BFA-E13E5561F62A}|ProductoApp.UI\\ProductoApp.UI.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\productoapp.ui\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CA67D5-86EA-4250-9BFA-E13E5561F62A}|ProductoApp.UI\\ProductoApp.UI.csproj|solutionrelative:productoapp.ui\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C93D22-ADC5-4C48-B601-E8E02A385E31}|ProductoApp.Entities\\ProductoApp.Entities.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\base de datos\\ejercicio03\\productoapp\\productoapp.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10C93D22-ADC5-4C48-B601-E8E02A385E31}|ProductoApp.Entities\\ProductoApp.Entities.csproj|solutionrelative:productoapp.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A01C2798-F7F9-4CAA-BEA0-FE967D679441}|ProductoApp.DAL\\ProductoApp.DAL.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\base de datos\\ejercicio02\\productoapp\\productoapp.dal\\data\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01C2798-F7F9-4CAA-BEA0-FE967D679441}|ProductoApp.DAL\\ProductoApp.DAL.csproj|solutionrelative:productoapp.dal\\data\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01C2798-F7F9-4CAA-BEA0-FE967D679441}|ProductoApp.DAL\\ProductoApp.DAL.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\productoapp.dal\\config\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01C2798-F7F9-4CAA-BEA0-FE967D679441}|ProductoApp.DAL\\ProductoApp.DAL.csproj|solutionrelative:productoapp.dal\\config\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{306AB284-1ED8-4EAC-B67B-940608E7E661}|ProductoApp.BLL\\ProductoApp.BLL.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\productoapp.bll\\logic\\productobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{306AB284-1ED8-4EAC-B67B-940608E7E661}|ProductoApp.BLL\\ProductoApp.BLL.csproj|solutionrelative:productoapp.bll\\logic\\productobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2CA67D5-86EA-4250-9BFA-E13E5561F62A}|ProductoApp.UI\\ProductoApp.UI.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\productoapp.ui\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2CA67D5-86EA-4250-9BFA-E13E5561F62A}|ProductoApp.UI\\ProductoApp.UI.csproj|solutionrelative:productoapp.ui\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2CA67D5-86EA-4250-9BFA-E13E5561F62A}|ProductoApp.UI\\ProductoApp.UI.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\productoapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CA67D5-86EA-4250-9BFA-E13E5561F62A}|ProductoApp.UI\\ProductoApp.UI.csproj|solutionrelative:productoapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2CA67D5-86EA-4250-9BFA-E13E5561F62A}|ProductoApp.UI\\ProductoApp.UI.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\productoapp.ui\\frmproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CA67D5-86EA-4250-9BFA-E13E5561F62A}|ProductoApp.UI\\ProductoApp.UI.csproj|solutionrelative:productoapp.ui\\frmproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C93D22-ADC5-4C48-B601-E8E02A385E31}|ProductoApp.Entities\\ProductoApp.Entities.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\productoapp.entities\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C93D22-ADC5-4C48-B601-E8E02A385E31}|ProductoApp.Entities\\ProductoApp.Entities.csproj|solutionrelative:productoapp.entities\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +47,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio03\\ProductoApp\\ProductoApp.Entities\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "ProductoApp.Entities\\Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio03\\ProductoApp\\ProductoApp.Entities\\Models\\Producto.cs",
-              "RelativeToolTip": "ProductoApp.Entities\\Models\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "FrmProductos.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\ProductoApp.UI\\FrmProductos.cs",
+              "RelativeDocumentMoniker": "ProductoApp.UI\\FrmProductos.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\ProductoApp.UI\\FrmProductos.cs",
+              "RelativeToolTip": "ProductoApp.UI\\FrmProductos.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswE0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T22:26:50.749Z",
+              "WhenOpened": "2026-08-30T22:49:35.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\ProductoApp.UI\\FrmProductos.cs",
+              "RelativeDocumentMoniker": "ProductoApp.UI\\FrmProductos.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\ProductoApp.UI\\FrmProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProductoApp.UI\\FrmProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T22:38:46.058Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\ProductoApp.BLL\\Logic\\ProductoBLL.cs",
+              "RelativeDocumentMoniker": "ProductoApp.BLL\\Logic\\ProductoBLL.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\ProductoApp.BLL\\Logic\\ProductoBLL.cs",
+              "RelativeToolTip": "ProductoApp.BLL\\Logic\\ProductoBLL.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T22:10:29.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\ProductoApp.DAL\\Config\\DatabaseConfig.cs",
+              "RelativeDocumentMoniker": "ProductoApp.DAL\\Config\\DatabaseConfig.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\ProductoApp.DAL\\Config\\DatabaseConfig.cs",
+              "RelativeToolTip": "ProductoApp.DAL\\Config\\DatabaseConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T22:32:14.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio03\\ProductoApp\\ProductoApp.Entities\\Class1.cs",
-              "RelativeDocumentMoniker": "ProductoApp.Entities\\Class1.cs",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio03\\ProductoApp\\ProductoApp.Entities\\Class1.cs",
-              "RelativeToolTip": "ProductoApp.Entities\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Title": "ProductoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\ProductoApp.DAL\\Data\\ProductoDAL.cs",
+              "RelativeDocumentMoniker": "ProductoApp.DAL\\Data\\ProductoDAL.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\ProductoApp.DAL\\Data\\ProductoDAL.cs",
+              "RelativeToolTip": "ProductoApp.DAL\\Data\\ProductoDAL.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAiwGgAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-29T22:25:59.459Z",
+              "WhenOpened": "2026-08-29T22:38:26.819Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\ProductoApp.UI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductoApp.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\ProductoApp.UI\\Program.cs",
+              "RelativeToolTip": "ProductoApp.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T23:03:04.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmProductos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\ProductoApp.UI\\FrmProductos.Designer.cs",
+              "RelativeDocumentMoniker": "ProductoApp.UI\\FrmProductos.Designer.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\ProductoApp.UI\\FrmProductos.Designer.cs",
+              "RelativeToolTip": "ProductoApp.UI\\FrmProductos.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T22:49:46.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\ProductoApp.Entities\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ProductoApp.Entities\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\BASE DE DATOS\\Ejercicio02\\ProductoApp\\ProductoApp.Entities\\Models\\Producto.cs",
+              "RelativeToolTip": "ProductoApp.Entities\\Models\\Producto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T22:28:33.695Z"
             }
           ]
         }

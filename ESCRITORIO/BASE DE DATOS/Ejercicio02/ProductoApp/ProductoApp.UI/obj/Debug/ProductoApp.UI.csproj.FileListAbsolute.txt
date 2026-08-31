@@ -1,0 +1,17 @@
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\obj\Debug\ProductoApp.UI.csproj.AssemblyReference.cache
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\obj\Debug\ProductoApp.UI.FrmProductos.resources
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\obj\Debug\ProductoApp.UI.Properties.Resources.resources
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\obj\Debug\ProductoApp.UI.csproj.GenerateResource.cache
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\obj\Debug\ProductoApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\bin\Debug\ProductoApp.UI.exe.config
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\bin\Debug\ProductoApp.UI.exe
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\bin\Debug\ProductoApp.UI.pdb
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\bin\Debug\ProductoApp.BLL.dll
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\bin\Debug\ProductoApp.Entities.dll
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\bin\Debug\ProductoApp.DAL.dll
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\bin\Debug\ProductoApp.BLL.pdb
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\bin\Debug\ProductoApp.Entities.pdb
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\bin\Debug\ProductoApp.DAL.pdb
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\obj\Debug\Producto.8361B94A.Up2Date
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\obj\Debug\ProductoApp.UI.exe
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.UI\obj\Debug\ProductoApp.UI.pdb

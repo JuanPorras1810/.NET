@@ -9,7 +9,7 @@ namespace ProductoApp.DAL.Config
 {
     internal class DatabaseConfig
     {
-        private string cadenaConexion = "Server=(localdb)\\MSSQLLocalDB;Database=DBProductos;Integrates security=true;Connection Timeout=30";
+        private string cadenaConexion = "Server=(localdb)\\MSSQLLocalDB;Database=DBProductos;Integrated Security=True;Connection Timeout=30";
 
         public SqlConnection AbrirConexion()
         {
