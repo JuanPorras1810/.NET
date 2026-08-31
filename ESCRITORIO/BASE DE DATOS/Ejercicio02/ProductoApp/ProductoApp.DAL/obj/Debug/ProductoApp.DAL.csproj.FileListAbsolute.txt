@@ -1,0 +1,9 @@
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.DAL\bin\Debug\ProductoApp.DAL.dll
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.DAL\bin\Debug\ProductoApp.DAL.pdb
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.DAL\bin\Debug\ProductoApp.Entities.dll
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.DAL\bin\Debug\ProductoApp.Entities.pdb
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.DAL\obj\Debug\ProductoApp.DAL.csproj.AssemblyReference.cache
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.DAL\obj\Debug\ProductoApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.DAL\obj\Debug\Producto.88B5D958.Up2Date
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.DAL\obj\Debug\ProductoApp.DAL.dll
+C:\Users\juanp\OneDrive\Documents\Ejercicios C# Juan Sebastian Porras Merchan\ESCRITORIO\BASE DE DATOS\Ejercicio02\ProductoApp\ProductoApp.DAL\obj\Debug\ProductoApp.DAL.pdb

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ProductoApp.BLL/ProductoApp.BLL.csproj" Id="306ab284-1ed8-4eac-b67b-940608e7e661" />
+  <Project Path="ProductoApp.DAL/ProductoApp.DAL.csproj" Id="a01c2798-f7f9-4caa-bea0-fe967d679441" />
+  <Project Path="ProductoApp.Entities/ProductoApp.Entities.csproj" Id="10c93d22-adc5-4c48-b601-e8e02a385e31" />
+  <Project Path="ProductoApp.UI/ProductoApp.UI.csproj" Id="b2ca67d5-86ea-4250-9bfa-e13e5561f62a" />
+</Solution>
