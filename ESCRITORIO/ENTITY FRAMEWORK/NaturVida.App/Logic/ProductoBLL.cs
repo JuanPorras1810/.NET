@@ -6,30 +6,33 @@ using System.Text;
 
 namespace NaturVida.App.Logic
 {
-    internal class CategoriaBLL
+    internal class ProductoBLL
     {
-        private readonly CategoriaDAL dal = new();
+        private readonly ProductoDAL dal = new();
 
-        public List<Categoria> Listar() => dal.ObtenerTodos();
+        public List<Producto> Listar() => dal.ObtenerTodos();
 
-        public string Guardar(Categoria cat)
+        public string Guardar(Producto pro) 
         {
-            if (string.IsNullOrWhiteSpace(cat.Nombre))
+            if (string.IsNullOrWhiteSpace(pro.Nombre))
                 return "El nombre es obligatorio.";
 
-            if (cat.Nombre.Length > 50)
+            if (pro.Nombre.Length > 50)
                 return "El nombre no puede exceder 50 caracteres.";
+
+            if (pro.Precio <= 0)
+                return "El precio debe ser un número mayor a 0.";
 
             try
             {
-                if (cat.Id > 0)
+                if (pro.Id > 0)
                 {
-                    dal.Actualizar(cat);
+                    dal.Actualizar(pro);
                     return "Actualizado correctamente.";
                 }
                 else
                 {
-                    dal.Insertar(cat);
+                    dal.Insertar(pro);
                     return "Guardado correctamente.";
                 }
             }
@@ -38,6 +41,7 @@ namespace NaturVida.App.Logic
                 return "Error: " + ex.Message;
             }
         }
+
 
         public string Eliminar(int id)
         {

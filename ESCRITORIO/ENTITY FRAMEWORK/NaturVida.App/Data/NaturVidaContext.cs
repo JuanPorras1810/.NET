@@ -9,6 +9,7 @@ namespace NaturVida.App.Data
     internal class NaturVidaContext:DbContext
     {
         public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Producto> Productos { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=NaturVidaDB;Trusted_Connection=true;");

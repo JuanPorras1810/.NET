@@ -1,34 +1,101 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\Nueva carpeta\\NaturVida.App\\",
+  "WorkspaceRootPath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|d:\\jp\\ejercicios c# juan sebastian porras merchan\\escritorio\\nueva carpeta\\naturvida.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\ui\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:ui\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|d:\\jp\\ejercicios c# juan sebastian porras merchan\\escritorio\\nueva carpeta\\naturvida.app\\logic\\categoriabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\ui\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:ui\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\ui\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:ui\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\logic\\productobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:logic\\productobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\logic\\categoriabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:logic\\categoriabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|d:\\jp\\ejercicios c# juan sebastian porras merchan\\escritorio\\nueva carpeta\\naturvida.app\\data\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\ui\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:ui\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\data\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:data\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|d:\\jp\\ejercicios c# juan sebastian porras merchan\\escritorio\\nueva carpeta\\naturvida.app\\data\\naturvidacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\data\\naturvidacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:data\\naturvidacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|d:\\jp\\ejercicios c# juan sebastian porras merchan\\escritorio\\nueva carpeta\\naturvida.app\\migrations\\20260828144228_creartablacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:migrations\\20260828144228_creartablacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\data\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:data\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|d:\\jp\\ejercicios c# juan sebastian porras merchan\\escritorio\\nueva carpeta\\naturvida.app\\migrations\\naturvidacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\ui\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:ui\\frmcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\ui\\frmcategorias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:ui\\frmcategorias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\ui\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:ui\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\ui\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:ui\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\ui\\frmproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:ui\\frmproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\ui\\frmproductos.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:ui\\frmproductos.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\ui\\frmcategorias.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:ui\\frmcategorias.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\ui\\frmmenu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:ui\\frmmenu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\migrations\\naturvidacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:migrations\\naturvidacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|d:\\jp\\ejercicios c# juan sebastian porras merchan\\escritorio\\nueva carpeta\\naturvida.app\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\migrations\\20260831140734_agregartablaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:migrations\\20260831140734_agregartablaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\escritorio\\entity framework\\naturvida.app\\migrations\\20260828144228_creartablacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BF6844-C95D-A464-0900-004530FB7089}|NaturVida.App.csproj|solutionrelative:migrations\\20260828144228_creartablacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sena CSET\\AppData\\Roaming\\Microsoft\\UserSecrets\\c2f30b2d-cbb2-45b2-984a-ac3dd62d0ea4\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,105 +105,295 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T11:29:25.442Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\Nueva carpeta\\NaturVida.App\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\Nueva carpeta\\NaturVida.App\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T15:41:29.509Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoriaBLL.cs",
-              "DocumentMoniker": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\Nueva carpeta\\NaturVida.App\\Logic\\CategoriaBLL.cs",
-              "RelativeDocumentMoniker": "Logic\\CategoriaBLL.cs",
-              "ToolTip": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\Nueva carpeta\\NaturVida.App\\Logic\\CategoriaBLL.cs",
-              "RelativeToolTip": "Logic\\CategoriaBLL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Title": "FrmProductos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmProductos.cs",
+              "RelativeDocumentMoniker": "UI\\FrmProductos.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmProductos.cs [Design]",
+              "RelativeToolTip": "UI\\FrmProductos.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T15:22:12.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-31T15:07:09.026Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoriaDAL.cs",
-              "DocumentMoniker": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\Nueva carpeta\\NaturVida.App\\Data\\CategoriaDAL.cs",
-              "RelativeDocumentMoniker": "Data\\CategoriaDAL.cs",
-              "ToolTip": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\Nueva carpeta\\NaturVida.App\\Data\\CategoriaDAL.cs",
-              "RelativeToolTip": "Data\\CategoriaDAL.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Title": "FrmMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "UI\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\FrmMenu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T15:10:49.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-31T23:30:35.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20260828144228_CrearTablaCategoria.cs",
-              "DocumentMoniker": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\Nueva carpeta\\NaturVida.App\\Migrations\\20260828144228_CrearTablaCategoria.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260828144228_CrearTablaCategoria.cs",
-              "ToolTip": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\Nueva carpeta\\NaturVida.App\\Migrations\\20260828144228_CrearTablaCategoria.cs",
-              "RelativeToolTip": "Migrations\\20260828144228_CrearTablaCategoria.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FrmProductos.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmProductos.cs",
+              "RelativeDocumentMoniker": "UI\\FrmProductos.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmProductos.cs",
+              "RelativeToolTip": "UI\\FrmProductos.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwFMAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T14:42:28.868Z",
+              "WhenOpened": "2026-08-31T15:14:13.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "NaturVidaContext.cs",
-              "DocumentMoniker": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\Nueva carpeta\\NaturVida.App\\Data\\NaturVidaContext.cs",
-              "RelativeDocumentMoniker": "Data\\NaturVidaContext.cs",
-              "ToolTip": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\Nueva carpeta\\NaturVida.App\\Data\\NaturVidaContext.cs",
-              "RelativeToolTip": "Data\\NaturVidaContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAB4AAAAAAAAAA==",
+              "Title": "ProductoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Logic\\ProductoBLL.cs",
+              "RelativeDocumentMoniker": "Logic\\ProductoBLL.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Logic\\ProductoBLL.cs",
+              "RelativeToolTip": "Logic\\ProductoBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T14:10:33.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-31T15:23:58.457Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "NaturVidaContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\Nueva carpeta\\NaturVida.App\\Migrations\\NaturVidaContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\NaturVidaContextModelSnapshot.cs",
-              "ToolTip": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\Nueva carpeta\\NaturVida.App\\Migrations\\NaturVidaContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\NaturVidaContextModelSnapshot.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T14:48:14.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "WhenOpened": "2026-08-31T12:45:04.262Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\Nueva carpeta\\NaturVida.App\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "Models\\Categoria.cs",
-              "ToolTip": "D:\\JP\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\Nueva carpeta\\NaturVida.App\\Models\\Categoria.cs",
-              "RelativeToolTip": "Models\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Title": "FrmCategorias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmCategorias.cs",
+              "RelativeDocumentMoniker": "UI\\FrmCategorias.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmCategorias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\FrmCategorias.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-28T14:04:34.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T00:48:25.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaBLL.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Logic\\CategoriaBLL.cs",
+              "RelativeDocumentMoniker": "Logic\\CategoriaBLL.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Logic\\CategoriaBLL.cs",
+              "RelativeToolTip": "Logic\\CategoriaBLL.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T01:01:14.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T14:03:23.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Data\\CategoriaDAL.cs",
+              "RelativeDocumentMoniker": "Data\\CategoriaDAL.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Data\\CategoriaDAL.cs",
+              "RelativeToolTip": "Data\\CategoriaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T12:46:32.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NaturVidaContext.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Data\\NaturVidaContext.cs",
+              "RelativeDocumentMoniker": "Data\\NaturVidaContext.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Data\\NaturVidaContext.cs",
+              "RelativeToolTip": "Data\\NaturVidaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T12:46:40.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Data\\ProductoDAL.cs",
+              "RelativeDocumentMoniker": "Data\\ProductoDAL.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Data\\ProductoDAL.cs",
+              "RelativeToolTip": "Data\\ProductoDAL.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvy0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T14:08:40.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmCategorias.cs",
+              "RelativeDocumentMoniker": "UI\\FrmCategorias.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmCategorias.cs",
+              "RelativeToolTip": "UI\\FrmCategorias.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T13:55:06.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmCategorias.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmCategorias.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\FrmCategorias.Designer.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmCategorias.Designer.cs",
+              "RelativeToolTip": "UI\\FrmCategorias.Designer.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAArwHMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T00:48:09.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "UI\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmMenu.cs",
+              "RelativeToolTip": "UI\\FrmMenu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T12:02:56.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmMenu.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\FrmMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmMenu.Designer.cs",
+              "RelativeToolTip": "UI\\FrmMenu.Designer.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAWwGoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T16:17:10.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmProductos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmProductos.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\FrmProductos.Designer.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmProductos.Designer.cs",
+              "RelativeToolTip": "UI\\FrmProductos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T15:47:46.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmProductos.resx",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmProductos.resx",
+              "RelativeDocumentMoniker": "UI\\FrmProductos.resx",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmProductos.resx",
+              "RelativeToolTip": "UI\\FrmProductos.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-08-31T15:47:44.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmCategorias.resx",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmCategorias.resx",
+              "RelativeDocumentMoniker": "UI\\FrmCategorias.resx",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmCategorias.resx",
+              "RelativeToolTip": "UI\\FrmCategorias.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-08-31T15:44:38.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmMenu.resx",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmMenu.resx",
+              "RelativeDocumentMoniker": "UI\\FrmMenu.resx",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\UI\\FrmMenu.resx",
+              "RelativeToolTip": "UI\\FrmMenu.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-08-31T15:30:38.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NaturVidaContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Migrations\\NaturVidaContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\NaturVidaContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Migrations\\NaturVidaContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\NaturVidaContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T14:23:13.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260831140734_AgregarTablaProductos.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Migrations\\20260831140734_AgregarTablaProductos.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260831140734_AgregarTablaProductos.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Migrations\\20260831140734_AgregarTablaProductos.cs",
+              "RelativeToolTip": "Migrations\\20260831140734_AgregarTablaProductos.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T14:07:35.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260828144228_CrearTablaCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Migrations\\20260828144228_CrearTablaCategoria.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260828144228_CrearTablaCategoria.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\ESCRITORIO\\ENTITY FRAMEWORK\\NaturVida.App\\Migrations\\20260828144228_CrearTablaCategoria.cs",
+              "RelativeToolTip": "Migrations\\20260828144228_CrearTablaCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T14:14:50.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Sena CSET\\AppData\\Roaming\\Microsoft\\UserSecrets\\c2f30b2d-cbb2-45b2-984a-ac3dd62d0ea4\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Sena CSET\\AppData\\Roaming\\Microsoft\\UserSecrets\\c2f30b2d-cbb2-45b2-984a-ac3dd62d0ea4\\secrets.json",
+              "ToolTip": "C:\\Users\\Sena CSET\\AppData\\Roaming\\Microsoft\\UserSecrets\\c2f30b2d-cbb2-45b2-984a-ac3dd62d0ea4\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Sena CSET\\AppData\\Roaming\\Microsoft\\UserSecrets\\c2f30b2d-cbb2-45b2-984a-ac3dd62d0ea4\\secrets.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-31T12:06:19.776Z"
             }
           ]
         }

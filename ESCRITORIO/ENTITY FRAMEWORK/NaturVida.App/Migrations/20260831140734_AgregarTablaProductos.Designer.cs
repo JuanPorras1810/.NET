@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using NaturVida.App.Data;
 
@@ -10,9 +11,11 @@ using NaturVida.App.Data;
 namespace NaturVida.App.Migrations
 {
     [DbContext(typeof(NaturVidaContext))]
-    partial class NaturVidaContextModelSnapshot : ModelSnapshot
+    [Migration("20260831140734_AgregarTablaProductos")]
+    partial class AgregarTablaProductos
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
