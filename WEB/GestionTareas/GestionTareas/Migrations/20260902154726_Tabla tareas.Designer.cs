@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace GestionTareas.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20260901155524_CrearTablaTarea")]
-    partial class CrearTablaTarea
+    [Migration("20260902154726_Tabla tareas")]
+    partial class Tablatareas
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

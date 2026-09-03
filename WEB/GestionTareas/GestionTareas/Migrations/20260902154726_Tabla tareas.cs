@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace GestionTareas.Migrations
 {
     /// <inheritdoc />
-    public partial class CrearTablaTarea : Migration
+    public partial class Tablatareas : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

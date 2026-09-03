@@ -1,7 +1,60 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\GestionTareas\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\ejercicio practica\\gestiontareas\\gestiontareas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|solutionrelative:gestiontareas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\ejercicio practica\\gestiontareas\\gestiontareas\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|solutionrelative:gestiontareas\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\ejercicio practica\\gestiontareas\\gestiontareas\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|solutionrelative:gestiontareas\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\ejercicio practica\\gestiontareas\\gestiontareas\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|solutionrelative:gestiontareas\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\ejercicio practica\\gestiontareas\\gestiontareas\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|solutionrelative:gestiontareas\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\ejercicio practica\\gestiontareas\\gestiontareas\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|solutionrelative:gestiontareas\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\ejercicio practica\\gestiontareas\\gestiontareas\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|solutionrelative:gestiontareas\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\ejercicio practica\\gestiontareas\\gestiontareas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|solutionrelative:gestiontareas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\ejercicio practica\\gestiontareas\\gestiontareas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|solutionrelative:gestiontareas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\ejercicio practica\\gestiontareas\\gestiontareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|solutionrelative:gestiontareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\ejercicio practica\\gestiontareas\\gestiontareas\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|solutionrelative:gestiontareas\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\ejercicio practica\\gestiontareas\\gestiontareas\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|solutionrelative:gestiontareas\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\ejercicio practica\\gestiontareas\\gestiontareas\\migrations\\20260902154726_tabla tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8592D6-4EA8-652F-80A0-CD34AA55181A}|GestionTareas\\GestionTareas.csproj|solutionrelative:gestiontareas\\migrations\\20260902154726_tabla tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +71,174 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GestionTareas\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "GestionTareas\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T23:32:43.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GestionTareas\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "GestionTareas\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T23:26:18.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GestionTareas\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GestionTareas\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T15:54:59.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GestionTareas\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "GestionTareas\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T15:54:57.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestionTareas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GestionTareas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T15:55:05.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionTareas\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GestionTareas\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T15:45:48.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Models\\Tarea.cs",
+              "RelativeDocumentMoniker": "GestionTareas\\Models\\Tarea.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Models\\Tarea.cs",
+              "RelativeToolTip": "GestionTareas\\Models\\Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:51:13.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Program.cs",
+              "RelativeDocumentMoniker": "GestionTareas\\Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Program.cs",
+              "RelativeToolTip": "GestionTareas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T23:08:29.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "GestionTareas\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "GestionTareas\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T23:25:28.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "GestionTareas\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "GestionTareas\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-02T23:10:36.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GestionTareas\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GestionTareas\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwF8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T16:16:18.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GestionTareas\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GestionTareas\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:51:50.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260902154726_Tabla tareas.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Migrations\\20260902154726_Tabla tareas.cs",
+              "RelativeDocumentMoniker": "GestionTareas\\Migrations\\20260902154726_Tabla tareas.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\Migrations\\20260902154726_Tabla tareas.cs",
+              "RelativeToolTip": "GestionTareas\\Migrations\\20260902154726_Tabla tareas.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:47:27.019Z"
             }
           ]
         }

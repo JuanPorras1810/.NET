@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vCbIGWZ2WYM=",
+  "dgSpecHash": "8pjMy7LErRc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\GestionTareas\\GestionTareas\\GestionTareas.csproj",
+  "projectFilePath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Ejercicio practica\\GestionTareas\\GestionTareas\\GestionTareas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juanp\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\juanp\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",
