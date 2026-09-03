@@ -1,0 +1,31 @@
+﻿@model IEnumerable<GestionTareas.Models.Tarea>
+<h1>Mis Tareas</h1>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Nueva Tarea</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Título</th>
+            <th class="text-center">Estado</th>
+            <th class="text-center">Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Titulo</td>
+                <td class="text-center">
+                    <span class="badge @(item.Completada ? "bg-success" : "bg-warning")">
+                        @(item.Completada ? "Completada" : "Pendiente")
+                    </span>
+                </td>
+                <td class="text-center">
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-success">Detalles</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
