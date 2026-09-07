@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\BibliotecaApp.csproj": {}
+    "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\BibliotecaApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\BibliotecaApp.csproj": {
+    "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\BibliotecaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\BibliotecaApp.csproj",
+        "projectUniqueName": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\BibliotecaApp.csproj",
         "projectName": "BibliotecaApp",
-        "projectPath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\BibliotecaApp.csproj",
+        "projectPath": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\BibliotecaApp.csproj",
         "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\obj\\",
+        "outputPath": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,35 @@
+@model GestorEmpleadosApp.Models.Empleado
+
+@{
+    ViewData["Title"] = "Detalles del Empleado";
+}
+
+<h2>Detalles del Empleado</h2>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">Nombre</dt>
+        <dd class="col-sm-9">@Model.Nombre</dd>
+
+        <dt class="col-sm-3">Apellido</dt>
+        <dd class="col-sm-9">@Model.Apellido</dd>
+
+        <dt class="col-sm-3">Email</dt>
+        <dd class="col-sm-9">@Model.Email</dd>
+
+        <dt class="col-sm-3">Teléfono</dt>
+        <dd class="col-sm-9">@(Model.Telefono ?? "No registrado")</dd>
+
+        <dt class="col-sm-3">Fecha de Contratación</dt>
+        <dd class="col-sm-9">@Model.FechaContratacion?.ToString("dd/MM/yyyy")</dd>
+
+        <dt class="col-sm-3">Salario</dt>
+        <dd class="col-sm-9">@Model.Salario.ToString("C")</dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Editar</a>
+    <a asp-action="Index" class="btn btn-secondary">Volver a la lista</a>
+</div>

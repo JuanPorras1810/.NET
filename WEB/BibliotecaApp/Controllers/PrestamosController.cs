@@ -15,14 +15,24 @@ public class PrestamoController : Controller
     }
 
     // GET: PRESTAMOS
-    public async Task<IActionResult> Index()    
+    public async Task<IActionResult> Index(string estado)    
     {
-        var prestamos = await _context.Prestamos
+        var prestamos =  _context.Prestamos
         .Include(p => p.Libro)
             .ThenInclude(l => l.Autor)
-        .ToListAsync();
+        .AsQueryable();
 
-        return View(prestamos);
+        if (estado == "Entregado")
+        {
+            prestamos = prestamos.Where(p => p.FechaDevolucion != null);
+        }
+        else if (estado == "No Entregado")
+        {
+            prestamos = prestamos.Where(p => p.FechaDevolucion == null);
+        }
+        ViewBag.Estado = estado;
+
+        return View(await prestamos.ToListAsync());
     }
 
     // GET: PRESTAMOS/Details/5
@@ -47,7 +57,13 @@ public class PrestamoController : Controller
     // GET: PRESTAMOS/Create
     public IActionResult Create()
     {
-        ViewBag.Libros = new SelectList(_context.Libros, "Id", "Titulo");
+        ViewBag.Libros = new SelectList(
+    _context.Libros
+        .Where(l => !_context.Prestamos.Any(p => p.LibroId == l.Id && p.FechaDevolucion == null)),
+    "Id",
+    "Titulo"
+);
+
         return View();
     }
 

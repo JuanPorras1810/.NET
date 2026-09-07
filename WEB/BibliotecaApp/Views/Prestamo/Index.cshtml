@@ -2,9 +2,18 @@
 
 <h1>Lista de Prestamos</h1>
 
-<p>
+<div class="d-flex justify-content-between align-items-center mb-3">
+
     <a asp-action="Create" class="btn btn-primary">Nuevo Prestamo</a>
-</p>
+
+    <form asp-action="Index" method="get">
+        <select name="estado" class="form-select w-auto" onchange="this.form.submit()">
+            <option value="">Seleccione...</option>
+            <option value="Entregado" selected="@(ViewBag.Estado == "Entregado")">Entregado</option>
+            <option value="No Entregado" selected="@(ViewBag.Estado == "No Entregado")">No Entregado</option>
+        </select>
+    </form>
+</div>
 
 
 <table class="table">
@@ -14,6 +23,8 @@
             <th>Fecha Prestamo</th>
             <th>Fecha Devolucion</th>
             <th>Libro</th>
+            <th>Estado</th>
+            <th>Acciones</th>
         </tr>
     </thead>
     <tbody>
@@ -24,6 +35,16 @@
                 <td>@item.FechaPrestamo.ToString("dd/MM/yyyy")</td>
                 <td>@(item.FechaDevolucion?.ToString("dd/MM/yyyy") ?? "Pendiente")</td>
                 <td>@item.Libro?.Titulo</td>
+                <td>
+                    @if (item.FechaDevolucion == null)
+                    {
+                        <span class="badge bg-danger"> No Entregado </span>
+                    }
+                    else
+                    {
+                        <span class=" badge bg-success"> Entregado </span>
+                    }
+                </td>
                 <td>
                     <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Editar</a> |
                     <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-success">Detalles</a> |
