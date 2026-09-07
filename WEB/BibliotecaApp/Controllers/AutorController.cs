@@ -14,9 +14,16 @@ public class AutorController : Controller
     }
 
     // GET: AUTORS
-    public async Task<IActionResult> Index()    
+    public async Task<IActionResult> Index(string buscar)    
     {
-        return View(await _context.Autores.ToListAsync());
+        var autor = _context.Autores.AsQueryable();
+
+        if (!string.IsNullOrEmpty(buscar))
+        {
+            autor = autor.Where(a => a.Nombre.Contains(buscar));
+        }
+
+        return View(await autor.ToListAsync());
     }
 
     // GET: AUTORS/Details/5

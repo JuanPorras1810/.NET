@@ -1,121 +1,125 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\",
+  "WorkspaceRootPath": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\prestamo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\prestamo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\prestamo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\prestamo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\prestamo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\bibliotecaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:bibliotecaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\prestamo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\prestamo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\prestamo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\prestamo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\autor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\autor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\autor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\autor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\autor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\autor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\libro\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\libro\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\libro\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\libro\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\prestamo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\prestamo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\prestamo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\prestamo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\prestamo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\libro\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\libro\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\libro\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\autor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\autor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\prestamo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\prestamo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\libro\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\libro\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\views\\autor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\autor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\autor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\autor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\autor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\autor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\prestamo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\prestamo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\libro\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\libro\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\libro\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\libro\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\autor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\autor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\autor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\autor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\autor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\autor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\views\\libro\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\libro\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\bibliotecaapp\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\github\\clone\\.net\\web\\bibliotecaapp\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -126,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -139,360 +143,347 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwB8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T05:27:59.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "Title": "BibliotecaApp.csproj",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\BibliotecaApp.csproj",
+              "RelativeDocumentMoniker": "BibliotecaApp.csproj",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\BibliotecaApp.csproj",
+              "RelativeToolTip": "BibliotecaApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-07T06:26:17.326Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-07T15:48:21.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Prestamo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Prestamo\\Edit.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Prestamo\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Prestamo\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-07T06:24:34.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T01:15:23.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Autor\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Autor\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Autor\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Autor\\Delete.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAewB8AAAAkAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Autor\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Autor\\Create.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Autor\\Create.cshtml",
+              "RelativeToolTip": "Views\\Autor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-07T05:15:58.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T00:18:52.834Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Autor\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Autor\\Index.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Autor\\Index.cshtml",
-              "RelativeToolTip": "Views\\Autor\\Index.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAewBgAAAAqAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Libro\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libro\\Index.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Libro\\Index.cshtml",
+              "RelativeToolTip": "Views\\Libro\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-06T22:47:51.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-06T22:48:06.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Prestamo\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Prestamo\\Details.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Prestamo\\Details.cshtml",
-              "RelativeToolTip": "Views\\Prestamo\\Details.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAewA0AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-06T23:14:07.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Prestamo\\Index.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Prestamo\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Prestamo\\Index.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Prestamo\\Index.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Prestamo\\Index.cshtml",
               "RelativeToolTip": "Views\\Prestamo\\Index.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAewBgAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-06T22:56:22.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Prestamo.cs",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Models\\Prestamo.cs",
-              "RelativeDocumentMoniker": "Models\\Prestamo.cs",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Models\\Prestamo.cs",
-              "RelativeToolTip": "Models\\Prestamo.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T02:12:21.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-07T06:26:33.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Autor\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Autor\\Details.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Autor\\Details.cshtml",
-              "RelativeToolTip": "Views\\Autor\\Details.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAewA0AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-06T22:39:58.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Prestamo\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Prestamo\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Prestamo\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Prestamo\\Delete.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAewB8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-07T04:43:39.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "PrestamosController.cs",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Controllers\\PrestamosController.cs",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Controllers\\PrestamosController.cs",
               "RelativeDocumentMoniker": "Controllers\\PrestamosController.cs",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Controllers\\PrestamosController.cs",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Controllers\\PrestamosController.cs",
               "RelativeToolTip": "Controllers\\PrestamosController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAMwBUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T23:52:45.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Prestamo\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Prestamo\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Prestamo\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Prestamo\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-07T01:15:23.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-06T23:52:45.428Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Autor.cs",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Models\\Autor.cs",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Models\\Autor.cs",
               "RelativeDocumentMoniker": "Models\\Autor.cs",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Models\\Autor.cs",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Models\\Autor.cs",
               "RelativeToolTip": "Models\\Autor.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAowBAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T00:57:16.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T00:57:16.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "DocumentIndex": 8,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutorController.cs",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "Controllers\\AutorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T00:55:35.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibroController.cs",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "Controllers\\LibroController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T23:25:34.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Libro\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libro\\Create.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Libro\\Create.cshtml",
+              "RelativeToolTip": "Views\\Libro\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-07T00:15:13.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Prestamo\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Prestamo\\Details.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Prestamo\\Details.cshtml",
+              "RelativeToolTip": "Views\\Prestamo\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-07T14:30:04.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Prestamo\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Prestamo\\Create.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Prestamo\\Create.cshtml",
+              "RelativeToolTip": "Views\\Prestamo\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-07T14:50:30.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Autor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Autor\\Index.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Autor\\Index.cshtml",
+              "RelativeToolTip": "Views\\Autor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T22:47:51.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T05:56:14.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T14:29:53.587Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Models\\Libro.cs",
-              "RelativeDocumentMoniker": "Models\\Libro.cs",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Models\\Libro.cs",
-              "RelativeToolTip": "Models\\Libro.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAmwBcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T05:40:35.632Z",
-              "EditorCaption": ""
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Libro\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libro\\Delete.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Libro\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Libro\\Delete.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-07T02:47:10.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Prestamo\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Prestamo\\Create.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Prestamo\\Create.cshtml",
-              "RelativeToolTip": "Views\\Prestamo\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Prestamo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Prestamo\\Delete.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Prestamo\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Prestamo\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAewB8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-07T00:15:10.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T04:43:39.324Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Libro\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Libro\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Libro\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Libro\\Delete.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAkAAAAKAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Libro\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libro\\Details.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Libro\\Details.cshtml",
+              "RelativeToolTip": "Views\\Libro\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-07T02:47:10.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-06T23:14:05.296Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Libro\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Libro\\Details.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Libro\\Details.cshtml",
-              "RelativeToolTip": "Views\\Libro\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Autor\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Autor\\Details.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Autor\\Details.cshtml",
+              "RelativeToolTip": "Views\\Autor\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewA0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-06T23:14:05.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-06T22:39:58.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Autor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Autor\\Edit.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Autor\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Autor\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-07T03:02:24.697Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Libro\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Libro\\Index.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Libro\\Index.cshtml",
-              "RelativeToolTip": "Views\\Libro\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-06T22:48:06.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Libro\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Libro\\Create.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Libro\\Create.cshtml",
-              "RelativeToolTip": "Views\\Libro\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-07T00:15:13.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Autor\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Autor\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Autor\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Autor\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-07T03:02:24.697Z",
-              "EditorCaption": ""
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Models\\Prestamo.cs",
+              "RelativeDocumentMoniker": "Models\\Prestamo.cs",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Models\\Prestamo.cs",
+              "RelativeToolTip": "Models\\Prestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T02:12:21.347Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Libro\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Libro\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Libro\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Libro\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-06T23:14:44.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T06:26:33.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "LibroController.cs",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Controllers\\LibroController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LibroController.cs",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Controllers\\LibroController.cs",
-              "RelativeToolTip": "Controllers\\LibroController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "Models\\Libro.cs",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Models\\Libro.cs",
+              "RelativeToolTip": "Models\\Libro.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwBcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T23:25:34.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Autor\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Autor\\Create.cshtml",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Views\\Autor\\Create.cshtml",
-              "RelativeToolTip": "Views\\Autor\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-07T00:18:52.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T05:40:35.632Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "AutorController.cs",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Controllers\\AutorController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AutorController.cs",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Controllers\\AutorController.cs",
-              "RelativeToolTip": "Controllers\\AutorController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Autor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Autor\\Delete.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Autor\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Autor\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAewB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-07T05:15:58.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-07T06:24:34.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-07T06:26:17.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwB8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T00:55:35.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T05:27:59.942Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T01:32:24.4Z"
+              "WhenOpened": "2026-09-07T05:56:14.848Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Libro\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libro\\Edit.cshtml",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Views\\Libro\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Libro\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T23:14:44.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -500,11 +491,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "DbSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Data\\DbSeeder.cs",
+              "DocumentMoniker": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Data\\DbSeeder.cs",
               "RelativeDocumentMoniker": "Data\\DbSeeder.cs",
-              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\Data\\DbSeeder.cs",
               "RelativeToolTip": "Data\\DbSeeder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

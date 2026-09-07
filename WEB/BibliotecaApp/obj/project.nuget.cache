@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C/1Yr6m5O18=",
+  "dgSpecHash": "pStp6SXvvi4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\BibliotecaApp\\BibliotecaApp.csproj",
+  "projectFilePath": "C:\\GitHub\\Clone\\.NET\\WEB\\BibliotecaApp\\BibliotecaApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juanp\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\juanp\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",
