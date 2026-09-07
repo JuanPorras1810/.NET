@@ -1,8 +1,9 @@
 
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using BibliotecaApp.Models;
 using BibliotecaApp.Data;
+using BibliotecaApp.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 
 public class LibroController : Controller
 {
@@ -45,6 +46,7 @@ public class LibroController : Controller
     // GET: LIBROS/Create
     public IActionResult Create()
     {
+        ViewBag.Autores = new SelectList(_context.Autores, "Id", "Nombre");
         return View();
     }
 
@@ -61,6 +63,7 @@ public class LibroController : Controller
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+        ViewBag.Autores = new SelectList(_context.Autores, "Id", "Nombre", libro.AutorId);
         return View(libro);
     }
 
@@ -77,6 +80,7 @@ public class LibroController : Controller
         {
             return NotFound();
         }
+        ViewBag.Autores = new SelectList(_context.Autores, "Id", "Nombre", libro.AutorId);
         return View(libro);
     }
 
@@ -112,6 +116,7 @@ public class LibroController : Controller
             }
             return RedirectToAction(nameof(Index));
         }
+        ViewBag.Autores = new SelectList(_context.Autores, "Id", "Nombre", libro.AutorId);
         return View(libro);
     }
 
@@ -124,6 +129,7 @@ public class LibroController : Controller
         }
 
         var libro = await _context.Libros
+            .Include(l => l.Autor)
             .FirstOrDefaultAsync(m => m.Id == id);
         if (libro == null)
         {

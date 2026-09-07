@@ -1,8 +1,9 @@
 
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using BibliotecaApp.Models;
 using BibliotecaApp.Data;
+using BibliotecaApp.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 
 public class PrestamoController : Controller
 {
@@ -33,6 +34,7 @@ public class PrestamoController : Controller
         }
 
         var prestamo = await _context.Prestamos
+            .Include(p => p.Libro)
             .FirstOrDefaultAsync(m => m.Id == id);
         if (prestamo == null)
         {
@@ -45,6 +47,7 @@ public class PrestamoController : Controller
     // GET: PRESTAMOS/Create
     public IActionResult Create()
     {
+        ViewBag.Libros = new SelectList(_context.Libros, "Id", "Titulo");
         return View();
     }
 
@@ -57,10 +60,12 @@ public class PrestamoController : Controller
     {
         if (ModelState.IsValid)
         {
+            prestamo.FechaPrestamo = DateTime.Now;
             _context.Add(prestamo);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+        ViewBag.Libros = new SelectList(_context.Libros, "Id", "Titulo", prestamo.LibroId);
         return View(prestamo);
     }
 
@@ -77,6 +82,7 @@ public class PrestamoController : Controller
         {
             return NotFound();
         }
+        ViewBag.Libros = new SelectList(_context.Libros, "Id", "Titulo", prestamo.LibroId);
         return View(prestamo);
     }
 
@@ -112,6 +118,7 @@ public class PrestamoController : Controller
             }
             return RedirectToAction(nameof(Index));
         }
+        ViewBag.Libros = new SelectList(_context.Libros, "Id", "Titulo", prestamo.LibroId);
         return View(prestamo);
     }
 
@@ -124,6 +131,7 @@ public class PrestamoController : Controller
         }
 
         var prestamo = await _context.Prestamos
+            .Include(l => l.Libro)
             .FirstOrDefaultAsync(m => m.Id == id);
         if (prestamo == null)
         {

@@ -1,14 +1,12 @@
 @model BibliotecaApp.Models.Autor
 
-@{
-    ViewData["Title"] = "Delete";
-}
+<h1>Eliminar Autor</h1>
 
-<h1>Delete</h1>
-
-<h3>Are you sure you want to delete this?</h3>
+<div class="alert alert-danger">
+    ⚠️ ¿Estás seguro de eliminar este autor?
+    <strong>Esta acción no se puede deshacer.</strong>
+</div>
 <div>
-    <h4>BibliotecaApp.Models.Autor</h4>
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
@@ -31,20 +29,12 @@
             @Html.DisplayNameFor(model => model.FechaNacimiento)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.FechaNacimiento)
-        </dd>
-    </dl>
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Libros)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Libros)
+            @Model.FechaNacimiento?.ToString("dd/MM/yyyy")
         </dd>
     </dl>
     <form asp-action="Delete">
         <input type="hidden" asp-for="Id" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
+        <input type="submit" value="Eliminar" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary">Volver a la lista</a>
     </form>
 </div>
