@@ -1,40 +1,42 @@
-@model BibliotecaApp.Models.Autor
+@model BibliotecaApp.ViewModels.AutorIndexViewModel
 
-<h1>Eliminar Autor</h1>
+@{
+    ViewData["Title"] = "Eliminar Autor";
+}
 
-<div class="alert alert-danger">
-    ⚠️ ¿Estás seguro de eliminar este autor?
-    <strong>Esta acción no se puede deshacer.</strong>
+<h2>¿Estás seguro de que deseas eliminar este autor?</h2>
+
+<div class="alert alert-danger" role="alert">
+    <strong>⚠️ Advertencia:</strong> Esta acción no se puede deshacer.
+    @if (Model.TotalLibros > 0)
+    {
+        <span>También se eliminarán <strong>@Model.TotalLibros libro(s)</strong> asociados.</span>
+    }
 </div>
+
 <div>
     <hr />
     <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Nombre)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Nombre)
+        <dt class="col-sm-3">Nombre</dt>
+        <dd class="col-sm-9">@Model.Nombre</dd>
+
+        <dt class="col-sm-3">Nacionalidad</dt>
+        <dd class="col-sm-9">@Model.Nacionalidad</dd>
+
+        <dt class="col-sm-3">Fecha de Nacimiento</dt>
+        <dd class="col-sm-9">
+            @(Model.FechaNacimiento?.ToString("dd/MM/yyyy") ?? "No registrada")
+        </dd>
+
+        <dt class="col-sm-3">Total de Libros</dt>
+        <dd class="col-sm-9">
+            <span class="badge bg-info fs-6">@Model.TotalLibros</span>
         </dd>
     </dl>
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Nacionalidad)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Nacionalidad)
-        </dd>
-    </dl>
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.FechaNacimiento)
-        </dt>
-        <dd class = "col-sm-10">
-            @Model.FechaNacimiento?.ToString("dd/MM/yyyy")
-        </dd>
-    </dl>
+
     <form asp-action="Delete">
         <input type="hidden" asp-for="Id" />
         <input type="submit" value="Eliminar" class="btn btn-danger" />
-        <a asp-action="Index" class="btn btn-secondary">Volver a la lista</a>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
     </form>
 </div>

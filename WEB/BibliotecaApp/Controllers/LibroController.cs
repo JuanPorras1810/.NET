@@ -15,13 +15,25 @@ public class LibroController : Controller
     }
 
     // GET: LIBROS
-    public async Task<IActionResult> Index()    
+    public async Task<IActionResult> Index(string estado)
     {
-        var libros = await _context.Libros
-        .Include(l => l.Autor)
-        .ToListAsync();
+        var libros = _context.Libros
+            .Include(l => l.Autor)
+            .Include(l => l.Prestamos)
+            .AsQueryable();
 
-        return View(libros);
+        if (estado == "Disponible")
+        {
+            libros = libros.Where(l => !_context.Prestamos.Any(p => p.LibroId == l.Id && p.FechaDevolucion == null));
+        }
+        else if (estado == "No Disponible")
+        {
+            libros = libros.Where(l => _context.Prestamos.Any(p => p.LibroId == l.Id && p.FechaDevolucion == null));
+        }
+
+        ViewBag.Estado = estado;
+
+        return View(await libros.ToListAsync());
     }
 
     // GET: LIBROS/Details/5

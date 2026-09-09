@@ -1,29 +1,31 @@
 @model IEnumerable<BibliotecaApp.Models.Prestamo>
 
-<h1>Lista de Prestamos</h1>
+@{
+    ViewData["Title"] = "Prestamos";
+}
 
-<div class="d-flex justify-content-between align-items-center mb-3">
+<h2>Lista de Préstamos</h2>
 
-    <a asp-action="Create" class="btn btn-primary">Nuevo Prestamo</a>
-
-    <form asp-action="Index" method="get">
-        <select name="estado" class="form-select w-auto" onchange="this.form.submit()">
-            <option value="">Seleccione...</option>
-            <option value="Entregado" selected="@(ViewBag.Estado == "Entregado")">Entregado</option>
-            <option value="No Entregado" selected="@(ViewBag.Estado == "No Entregado")">No Entregado</option>
-        </select>
+<p>
+    <form asp-action="Index" method="get" class="d-flex gap-2">
+        <input type="text" name="buscar" value="@ViewBag.Buscar"
+               placeholder="Buscar por nombre usuario..." class="form-control" style="max-width: 300px;" />
+        <button type="submit" class="btn btn-primary">Buscar</button>
+        <a asp-action="Index" class="btn btn-secondary">Limpiar</a>
     </form>
-</div>
+</p>
 
+<p>
+    <a asp-action="Create" class="btn btn-success">Crear Nuevo</a>
+</p>
 
-<table class="table">
+<table class="table table-striped">
     <thead>
         <tr>
             <th>Nombre Usuario</th>
-            <th>Fecha Prestamo</th>
-            <th>Fecha Devolucion</th>
+            <th>Fecha Préstamo</th>
+            <th>Fecha Devolución</th>
             <th>Libro</th>
-            <th>Estado</th>
             <th>Acciones</th>
         </tr>
     </thead>
@@ -33,22 +35,21 @@
             <tr>
                 <td>@item.NombreUsuario</td>
                 <td>@item.FechaPrestamo.ToString("dd/MM/yyyy")</td>
-                <td>@(item.FechaDevolucion?.ToString("dd/MM/yyyy") ?? "Pendiente")</td>
-                <td>@item.Libro?.Titulo</td>
                 <td>
-                    @if (item.FechaDevolucion == null)
+                    @if (item.FechaDevolucion.HasValue)
                     {
-                        <span class="badge bg-danger"> No Entregado </span>
+                        @item.FechaDevolucion.Value.ToString("dd/MM/yyyy")
                     }
                     else
                     {
-                        <span class=" badge bg-success"> Entregado </span>
+                        <span class="badge bg-danger text-white">Pendiente</span>
                     }
                 </td>
+                <td>@item.Libro?.Titulo</td>
                 <td>
-                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Editar</a> |
-                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-success">Detalles</a> |
-                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn btn-danger">Eliminar</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">Detalles</a>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Editar</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Eliminar</a>
                 </td>
             </tr>
         }

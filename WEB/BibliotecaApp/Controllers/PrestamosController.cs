@@ -15,22 +15,19 @@ public class PrestamoController : Controller
     }
 
     // GET: PRESTAMOS
-    public async Task<IActionResult> Index(string estado)    
+    public async Task<IActionResult> Index(string buscar)    
     {
         var prestamos =  _context.Prestamos
         .Include(p => p.Libro)
             .ThenInclude(l => l.Autor)
         .AsQueryable();
 
-        if (estado == "Entregado")
+        if (!string.IsNullOrEmpty(buscar))
         {
-            prestamos = prestamos.Where(p => p.FechaDevolucion != null);
+            prestamos = prestamos.Where(a => a.NombreUsuario.Contains(buscar));
         }
-        else if (estado == "No Entregado")
-        {
-            prestamos = prestamos.Where(p => p.FechaDevolucion == null);
-        }
-        ViewBag.Estado = estado;
+
+        ViewBag.Buscar = buscar;
 
         return View(await prestamos.ToListAsync());
     }
