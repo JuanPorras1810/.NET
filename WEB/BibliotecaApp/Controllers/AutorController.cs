@@ -1,29 +1,28 @@
 
+using BibliotecaApp.Data;
+using BibliotecaApp.Models;
+using BibliotecaApp.Services;
+using BibliotecaApp.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using BibliotecaApp.Models;
-using BibliotecaApp.Data;
 
 public class AutorController : Controller
-{   
+{
+    private readonly IAutorService _autorService;
     private readonly ApplicationDbContext _context;
 
-    public AutorController(ApplicationDbContext context)
+    public AutorController(IAutorService autorService, ApplicationDbContext context)
     {
+        _autorService = autorService;   
         _context = context;
     }
 
     // GET: AUTORS
     public async Task<IActionResult> Index(string buscar)    
     {
-        var autor = _context.Autores.AsQueryable();
-
-        if (!string.IsNullOrEmpty(buscar))
-        {
-            autor = autor.Where(a => a.Nombre.Contains(buscar));
-        }
-
-        return View(await autor.ToListAsync());
+        var autores = await _autorService.ObtenerTodosAsync(buscar);
+        ViewBag.Buscar = buscar;
+        return View(autores);
     }
 
     // GET: AUTORS/Details/5
@@ -34,9 +33,7 @@ public class AutorController : Controller
             return NotFound();
         }
 
-        var autor = await _context.Autores
-            .Include(a => a.Libros)
-            .FirstOrDefaultAsync(m => m.Id == id);
+        var autor = await _autorService.ObtenerDetalleAsync(id.Value);
 
         if (autor == null)
         {
@@ -49,7 +46,8 @@ public class AutorController : Controller
     // GET: AUTORS/Create
     public IActionResult Create()
     {
-        return View();
+        var viewModel = new CrearEditarAutorViewModel();
+        return View(viewModel);
     }
 
     // POST: AUTORS/Create
@@ -57,15 +55,15 @@ public class AutorController : Controller
     // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> Create([Bind("Id,Nombre,Nacionalidad,FechaNacimiento,Libros")] Autor autor)
+    public async Task<IActionResult> Create(CrearEditarAutorViewModel viewModel)
     {
-        if (ModelState.IsValid)
+        if (!ModelState.IsValid)
         {
-            _context.Add(autor);
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return View(viewModel);
         }
-        return View(autor);
+
+        await _autorService.CrearAutorAsync(viewModel);
+        return RedirectToAction(nameof(Index));
     }
 
     // GET: AUTORS/Edit/5
@@ -76,12 +74,14 @@ public class AutorController : Controller
             return NotFound();
         }
 
-        var autor = await _context.Autores.FindAsync(id);
-        if (autor == null)
+        var viewModel = await _autorService.ObtenerViewModelParaEditarAsync(id.Value);
+            
+        if (viewModel == null)
         {
             return NotFound();
         }
-        return View(autor);
+
+        return View(viewModel);
     }
 
     // POST: AUTORS/Edit/5
@@ -89,35 +89,24 @@ public class AutorController : Controller
     // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> Edit(int? id, [Bind("Id,Nombre,Nacionalidad,FechaNacimiento,Libros")] Autor autor)
+    public async Task<IActionResult> Edit(int id, CrearEditarAutorViewModel viewModel)
     {
-        if (id != autor.Id)
+        if (!ModelState.IsValid)
+        {
+            return View(viewModel);
+        }
+
+        var exito = await _autorService
+            .ActualizarAutorAsync(id, viewModel);
+
+        if (!exito)
         {
             return NotFound();
         }
 
-        if (ModelState.IsValid)
-        {
-            try
-            {
-                _context.Update(autor);
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!AutorExists(autor.Id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-            return RedirectToAction(nameof(Index));
-        }
-        return View(autor);
+        return RedirectToAction(nameof(Index));
     }
+
 
     // GET: AUTORS/Delete/5
     public async Task<IActionResult> Delete(int? id)
@@ -127,28 +116,30 @@ public class AutorController : Controller
             return NotFound();
         }
 
-        var autor = await _context.Autores
-            .FirstOrDefaultAsync(m => m.Id == id);
-        if (autor == null)
+        var viewModel = await _autorService
+            .ObtenerParaEliminarAsync(id.Value);
+
+        if (viewModel == null)
         {
             return NotFound();
         }
 
-        return View(autor);
+        return View(viewModel);
     }
 
     // POST: AUTORS/Delete/5
     [HttpPost, ActionName("Delete")]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> DeleteConfirmed(int? id)
+    public async Task<IActionResult> DeleteConfirmed(int id)
     {
-        var autor = await _context.Autores.FindAsync(id);
-        if (autor != null)
+        var exito = await _autorService
+        .EliminarAutorAsync(id);
+
+        if (!exito)
         {
-            _context.Autores.Remove(autor);
+            return NotFound();
         }
 
-        await _context.SaveChangesAsync();
         return RedirectToAction(nameof(Index));
     }
 
