@@ -1,9 +1,9 @@
 ﻿using BibliotecaApp.Data;
 using BibliotecaApp.Models;
-using BibliotecaApp.ViewModels;
+using BibliotecaApp.ViewModels.AutorViewModels;
 using Microsoft.EntityFrameworkCore;
 
-namespace BibliotecaApp.Services
+namespace BibliotecaApp.Services.AutorServices
 {
     public class AutorService : IAutorService
     {

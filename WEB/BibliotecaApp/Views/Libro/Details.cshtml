@@ -1,4 +1,4 @@
-@model BibliotecaApp.Models.Libro
+@model BibliotecaApp.ViewModels.LibroViewModels.LibroDetalleViewModel
 
 @{
     ViewData["Title"] = "Detalles del Libro";
@@ -20,9 +20,9 @@
 
         <dt class="col-sm-3">Autor</dt>
         <dd class="col-sm-9">
-            @if (Model.Autor != null)
+            @if (Model.NombreAutor != null)
             {
-                <span>✍️ @Model.Autor.Nombre</span>
+                <span>✍️ @Model.NombreAutor</span>
             }
             else
             {

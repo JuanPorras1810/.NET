@@ -1,4 +1,4 @@
-@model BibliotecaApp.Models.Libro
+@model BibliotecaApp.ViewModels.LibroViewModels.CrearEditarLibroViewModel
 
 @{
     ViewData["Title"] = "Editar Libro";
@@ -11,8 +11,6 @@
     <div class="col-md-6">
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input type="hidden" asp-for="Id" />
-
             <div class="form-group mb-3">
                 <label asp-for="Titulo" class="control-label"></label>
                 <input asp-for="Titulo" class="form-control" />
@@ -33,7 +31,7 @@
 
             <div class="form-group mb-3">
                 <label asp-for="AutorId" class="control-label">Autor</label>
-                <select asp-for="AutorId" class="form-select" asp-items="ViewBag.Autores">
+                <select asp-for="AutorId" class="form-select" asp-items="Model.Autores">
                     <option value="">Seleccione...</option>
                 </select>
                 <span asp-validation-for="AutorId" class="text-danger"></span>

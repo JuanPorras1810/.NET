@@ -1,39 +1,30 @@
 
 using BibliotecaApp.Data;
 using BibliotecaApp.Models;
+using BibliotecaApp.Services.LibroServices;
+using BibliotecaApp.ViewModels.LibroViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 public class LibroController : Controller
 {
     private readonly ApplicationDbContext _context;
+    private readonly ILibroService _libroService;
 
-    public LibroController(ApplicationDbContext context)
+    public LibroController(ApplicationDbContext context, ILibroService libroService)
     {
         _context = context;
+        _libroService = libroService;
     }
 
     // GET: LIBROS
     public async Task<IActionResult> Index(string estado)
     {
-        var libros = _context.Libros
-            .Include(l => l.Autor)
-            .Include(l => l.Prestamos)
-            .AsQueryable();
-
-        if (estado == "Disponible")
-        {
-            libros = libros.Where(l => !_context.Prestamos.Any(p => p.LibroId == l.Id && p.FechaDevolucion == null));
-        }
-        else if (estado == "No Disponible")
-        {
-            libros = libros.Where(l => _context.Prestamos.Any(p => p.LibroId == l.Id && p.FechaDevolucion == null));
-        }
-
-        ViewBag.Estado = estado;
-
-        return View(await libros.ToListAsync());
+        var libros = await _libroService.ObtenerTodosAsync(estado);
+        ViewBag.Estado = estado; 
+        return View(libros);
     }
 
     // GET: LIBROS/Details/5
@@ -44,8 +35,7 @@ public class LibroController : Controller
             return NotFound();
         }
 
-        var libro = await _context.Libros
-            .FirstOrDefaultAsync(m => m.Id == id);
+        var libro = await _libroService.ObtenerDetalleAsync(id.Value);
 
         if (libro == null)
         {
@@ -56,10 +46,10 @@ public class LibroController : Controller
     }
 
     // GET: LIBROS/Create
-    public IActionResult Create()
+    public async Task<IActionResult> Create()
     {
-        ViewBag.Autores = new SelectList(_context.Autores, "Id", "Nombre");
-        return View();
+        var viewModel = await _libroService.ObtenerViewModelParaCrearAsync();
+        return View(viewModel);
     }
 
     // POST: LIBROS/Create
@@ -67,16 +57,16 @@ public class LibroController : Controller
     // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> Create([Bind("Id,Titulo,ISBN,AnioPublicacion,AutorId,Autor,Prestamos")] Libro libro)
+    public async Task<IActionResult> Create(CrearEditarLibroViewModel viewModel)
     {
-        if (ModelState.IsValid)
+        if (!ModelState.IsValid)
         {
-            _context.Add(libro);
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return View(viewModel);
         }
-        ViewBag.Autores = new SelectList(_context.Autores, "Id", "Nombre", libro.AutorId);
-        return View(libro);
+
+        var libro = await _libroService.CrearLibroAsync(viewModel);
+
+        return RedirectToAction(nameof(Index));
     }
 
     // GET: LIBROS/Edit/5
@@ -87,12 +77,13 @@ public class LibroController : Controller
             return NotFound();
         }
 
-        var libro = await _context.Libros.FindAsync(id);
+        var libro = await _libroService.ObtenerViewModelParaEditarAsync(id.Value);
+
         if (libro == null)
         {
             return NotFound();
         }
-        ViewBag.Autores = new SelectList(_context.Autores, "Id", "Nombre", libro.AutorId);
+
         return View(libro);
     }
 
@@ -101,35 +92,21 @@ public class LibroController : Controller
     // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> Edit(int? id, [Bind("Id,Titulo,ISBN,AnioPublicacion,AutorId,Autor,Prestamos")] Libro libro)
+    public async Task<IActionResult> Edit(int id, CrearEditarLibroViewModel viewModel)
     {
-        if (id != libro.Id)
+        if (!ModelState.IsValid)
+        {
+            return View(viewModel);
+        }
+
+        var exito = await _libroService.ActualizarLibroAsync(id, viewModel);
+
+        if (!exito)
         {
             return NotFound();
         }
 
-        if (ModelState.IsValid)
-        {
-            try
-            {
-                _context.Update(libro);
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!LibroExists(libro.Id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-            return RedirectToAction(nameof(Index));
-        }
-        ViewBag.Autores = new SelectList(_context.Autores, "Id", "Nombre", libro.AutorId);
-        return View(libro);
+        return RedirectToAction(nameof(Index));
     }
 
     // GET: LIBROS/Delete/5
@@ -140,9 +117,8 @@ public class LibroController : Controller
             return NotFound();
         }
 
-        var libro = await _context.Libros
-            .Include(l => l.Autor)
-            .FirstOrDefaultAsync(m => m.Id == id);
+        var libro = await _libroService.ObtenerParaEliminarAsync(id.Value);
+       
         if (libro == null)
         {
             return NotFound();
@@ -154,15 +130,15 @@ public class LibroController : Controller
     // POST: LIBROS/Delete/5
     [HttpPost, ActionName("Delete")]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> DeleteConfirmed(int? id)
+    public async Task<IActionResult> DeleteConfirmed(int id)
     {
-        var libro = await _context.Libros.FindAsync(id);
-        if (libro != null)
+        var exito = await _libroService.EliminarLibroAsync(id);
+
+        if (!exito)
         {
-            _context.Libros.Remove(libro);
+            return NotFound();
         }
 
-        await _context.SaveChangesAsync();
         return RedirectToAction(nameof(Index));
     }
 

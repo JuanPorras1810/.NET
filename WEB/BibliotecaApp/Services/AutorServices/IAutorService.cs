@@ -1,7 +1,7 @@
 ﻿using BibliotecaApp.Models;
-using BibliotecaApp.ViewModels;
+using BibliotecaApp.ViewModels.AutorViewModels;
 
-namespace BibliotecaApp.Services
+namespace BibliotecaApp.Services.AutorServices
 {
     public interface IAutorService
     {
