@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace BibliotecaApp.ViewModels
+namespace BibliotecaApp.ViewModels.AutorViewModels
 {
     public class CrearEditarAutorViewModel
     {

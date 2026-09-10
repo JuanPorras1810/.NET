@@ -1,8 +1,8 @@
 
 using BibliotecaApp.Data;
 using BibliotecaApp.Models;
-using BibliotecaApp.Services;
-using BibliotecaApp.ViewModels;
+using BibliotecaApp.Services.AutorServices;
+using BibliotecaApp.ViewModels.AutorViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 

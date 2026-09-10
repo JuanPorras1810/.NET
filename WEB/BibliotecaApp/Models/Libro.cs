@@ -6,10 +6,8 @@ namespace BibliotecaApp.Models
     {
         public int Id { get; set; }
 
-
         [Required(ErrorMessage = "El título es obligatorio")]
         public string Titulo { get; set; } = string.Empty;
-
 
         [Required(ErrorMessage = "El ISBN es obligatorio")]
         public string ISBN { get; set; } = string.Empty;
