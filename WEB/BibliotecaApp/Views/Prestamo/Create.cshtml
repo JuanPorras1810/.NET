@@ -1,4 +1,4 @@
-@model BibliotecaApp.Models.Prestamo
+@model BibliotecaApp.ViewModels.PrestamoViewModels.CrearEditarPrestamoViewModel
 
 @{
     ViewData["Title"] = "Crear Préstamo";
@@ -20,7 +20,7 @@
 
             <div class="form-group mb-3">
                 <label asp-for="LibroId" class="control-label">Libro</label>
-                <select asp-for="LibroId" class="form-select" asp-items="ViewBag.Libros">
+                <select asp-for="LibroId" class="form-select" asp-items="Model.Libros">
                     <option value="">Seleccione...</option>
                 </select>
                 <span asp-validation-for="LibroId" class="text-danger"></span>

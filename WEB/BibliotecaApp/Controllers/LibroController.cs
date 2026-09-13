@@ -10,12 +10,10 @@ using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 public class LibroController : Controller
 {
-    private readonly ApplicationDbContext _context;
     private readonly ILibroService _libroService;
 
-    public LibroController(ApplicationDbContext context, ILibroService libroService)
+    public LibroController(ILibroService libroService)
     {
-        _context = context;
         _libroService = libroService;
     }
 
@@ -64,7 +62,7 @@ public class LibroController : Controller
             return View(viewModel);
         }
 
-        var libro = await _libroService.CrearLibroAsync(viewModel);
+        await _libroService.CrearLibroAsync(viewModel);
 
         return RedirectToAction(nameof(Index));
     }
@@ -77,14 +75,14 @@ public class LibroController : Controller
             return NotFound();
         }
 
-        var libro = await _libroService.ObtenerViewModelParaEditarAsync(id.Value);
+        var viewModel = await _libroService.ObtenerViewModelParaEditarAsync(id.Value);
 
-        if (libro == null)
+        if (viewModel == null)
         {
             return NotFound();
         }
 
-        return View(libro);
+        return View(viewModel);
     }
 
     // POST: LIBROS/Edit/5
@@ -117,14 +115,14 @@ public class LibroController : Controller
             return NotFound();
         }
 
-        var libro = await _libroService.ObtenerParaEliminarAsync(id.Value);
+        var viewModel = await _libroService.ObtenerParaEliminarAsync(id.Value);
        
-        if (libro == null)
+        if (viewModel == null)
         {
             return NotFound();
         }
 
-        return View(libro);
+        return View(viewModel);
     }
 
     // POST: LIBROS/Delete/5
@@ -140,10 +138,5 @@ public class LibroController : Controller
         }
 
         return RedirectToAction(nameof(Index));
-    }
-
-    private bool LibroExists(int? id)
-    {
-        return _context.Libros.Any(e => e.Id == id);
     }
 }

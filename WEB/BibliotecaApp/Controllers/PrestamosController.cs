@@ -1,35 +1,27 @@
 
 using BibliotecaApp.Data;
 using BibliotecaApp.Models;
+using BibliotecaApp.Services.PrestamoServices;
+using BibliotecaApp.ViewModels.PrestamoViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 
 public class PrestamoController : Controller
 {
-    private readonly ApplicationDbContext _context;
+    private readonly IPrestamoService _prestamoService;
 
-    public PrestamoController(ApplicationDbContext context)
+    public PrestamoController(IPrestamoService prestamoService)
     {
-        _context = context;
+        _prestamoService = prestamoService;
     }
 
     // GET: PRESTAMOS
     public async Task<IActionResult> Index(string buscar)    
     {
-        var prestamos =  _context.Prestamos
-        .Include(p => p.Libro)
-            .ThenInclude(l => l.Autor)
-        .AsQueryable();
-
-        if (!string.IsNullOrEmpty(buscar))
-        {
-            prestamos = prestamos.Where(a => a.NombreUsuario.Contains(buscar));
-        }
-
+        var prestamos = await _prestamoService.ObtenerTodosAsync(buscar);
         ViewBag.Buscar = buscar;
-
-        return View(await prestamos.ToListAsync());
+        return View(prestamos);
     }
 
     // GET: PRESTAMOS/Details/5
@@ -40,9 +32,8 @@ public class PrestamoController : Controller
             return NotFound();
         }
 
-        var prestamo = await _context.Prestamos
-            .Include(p => p.Libro)
-            .FirstOrDefaultAsync(m => m.Id == id);
+        var prestamo = await _prestamoService.ObtenerDetalleAsync(id.Value);
+
         if (prestamo == null)
         {
             return NotFound();
@@ -52,16 +43,10 @@ public class PrestamoController : Controller
     }
 
     // GET: PRESTAMOS/Create
-    public IActionResult Create()
+    public async Task<IActionResult> Create()
     {
-        ViewBag.Libros = new SelectList(
-    _context.Libros
-        .Where(l => !_context.Prestamos.Any(p => p.LibroId == l.Id && p.FechaDevolucion == null)),
-    "Id",
-    "Titulo"
-);
-
-        return View();
+        var viewModel = await _prestamoService.ObtenerViewModelParaCrearAsync();
+        return View(viewModel);
     }
 
     // POST: PRESTAMOS/Create
@@ -69,17 +54,16 @@ public class PrestamoController : Controller
     // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> Create([Bind("Id,NombreUsuario,FechaPrestamo,FechaDevolucion,LibroId,Libro")] Prestamo prestamo)
+    public async Task<IActionResult> Create(CrearEditarPrestamoViewModel viewModel)
     {
-        if (ModelState.IsValid)
+        if (!ModelState.IsValid)
         {
-            prestamo.FechaPrestamo = DateTime.Now;
-            _context.Add(prestamo);
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return View(viewModel);
         }
-        ViewBag.Libros = new SelectList(_context.Libros, "Id", "Titulo", prestamo.LibroId);
-        return View(prestamo);
+
+        await _prestamoService.CrearPrestamoAsync(viewModel);
+
+        return RedirectToAction(nameof(Index));
     }
 
     // GET: PRESTAMOS/Edit/5
@@ -90,13 +74,14 @@ public class PrestamoController : Controller
             return NotFound();
         }
 
-        var prestamo = await _context.Prestamos.FindAsync(id);
-        if (prestamo == null)
+        var viewModel = await _prestamoService.ObtenerViewModelParaEditarAsync(id.Value);
+
+        if (viewModel == null)
         {
             return NotFound();
         }
-        ViewBag.Libros = new SelectList(_context.Libros, "Id", "Titulo", prestamo.LibroId);
-        return View(prestamo);
+
+        return View(viewModel);
     }
 
     // POST: PRESTAMOS/Edit/5
@@ -104,35 +89,22 @@ public class PrestamoController : Controller
     // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> Edit(int? id, [Bind("Id,NombreUsuario,FechaPrestamo,FechaDevolucion,LibroId,Libro")] Prestamo prestamo)
+    public async Task<IActionResult> Edit(int id, CrearEditarPrestamoViewModel viewModel)
     {
-        if (id != prestamo.Id)
+        if (!ModelState.IsValid)
+        {
+            return View(viewModel);
+        }
+
+        var exito = await _prestamoService.ActualizarPrestamoAsync(id, viewModel);
+
+        if (!exito)
         {
             return NotFound();
         }
 
-        if (ModelState.IsValid)
-        {
-            try
-            {
-                _context.Update(prestamo);
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!PrestamoExists(prestamo.Id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-            return RedirectToAction(nameof(Index));
-        }
-        ViewBag.Libros = new SelectList(_context.Libros, "Id", "Titulo", prestamo.LibroId);
-        return View(prestamo);
+        return RedirectToAction(nameof(Index));
+
     }
 
     // GET: PRESTAMOS/Delete/5
@@ -143,34 +115,29 @@ public class PrestamoController : Controller
             return NotFound();
         }
 
-        var prestamo = await _context.Prestamos
-            .Include(l => l.Libro)
-            .FirstOrDefaultAsync(m => m.Id == id);
-        if (prestamo == null)
+        var viewModel = await _prestamoService.ObtenerParaEliminarAsync(id.Value);
+       
+        if (viewModel == null)
         {
             return NotFound();
         }
 
-        return View(prestamo);
+        return View(viewModel);
     }
 
     // POST: PRESTAMOS/Delete/5
     [HttpPost, ActionName("Delete")]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> DeleteConfirmed(int? id)
+    public async Task<IActionResult> DeleteConfirmed(int id)
     {
-        var prestamo = await _context.Prestamos.FindAsync(id);
-        if (prestamo != null)
+        var exito = await _prestamoService.EliminarPrestamoAsync(id);
+        
+        if (!exito)
         {
-            _context.Prestamos.Remove(prestamo);
+            TempData["Error"] = "No se puede eliminar el préstamo porque el libro todavía no ha sido devuelto.";
+            return NotFound();
         }
 
-        await _context.SaveChangesAsync();
         return RedirectToAction(nameof(Index));
-    }
-
-    private bool PrestamoExists(int? id)
-    {
-        return _context.Prestamos.Any(e => e.Id == id);
     }
 }

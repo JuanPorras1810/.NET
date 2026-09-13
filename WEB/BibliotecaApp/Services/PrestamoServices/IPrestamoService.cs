@@ -10,8 +10,8 @@ namespace BibliotecaApp.Services.PrestamoServices
         Task<CrearEditarPrestamoViewModel?> ObtenerViewModelParaCrearAsync();
         Task<CrearEditarPrestamoViewModel?> ObtenerViewModelParaEditarAsync(int id);
         Task<PrestamoIndexViewModel?> ObtenerParaEliminarAsync(int id);
-        Task<bool> CrearPrestamoAsync(CrearEditarAutorViewModel viewModel);
-        Task<bool> ActualizarPrestamoAsync(int id, CrearEditarAutorViewModel viewModel);
+        Task<bool> CrearPrestamoAsync(CrearEditarPrestamoViewModel viewModel);
+        Task<bool> ActualizarPrestamoAsync(int id, CrearEditarPrestamoViewModel viewModel);
         Task<bool> EliminarPrestamoAsync(int id);
     }
 }

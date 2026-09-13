@@ -1,4 +1,4 @@
-@model BibliotecaApp.Models.Prestamo
+@model BibliotecaApp.ViewModels.PrestamoViewModels.PrestamoDetalleViewModel
 
 @{
     ViewData["Title"] = "Detalles del Préstamo";
@@ -9,24 +9,6 @@
 <div>
     <hr />
     <dl class="row">
-        <dt class="col-sm-3">Nombre Usuario</dt>
-        <dd class="col-sm-9">@Model.NombreUsuario</dd>
-
-        <dt class="col-sm-3">Fecha Préstamo</dt>
-        <dd class="col-sm-9">@Model.FechaPrestamo.ToString("dd/MM/yyyy")</dd>
-
-        <dt class="col-sm-3">Fecha Devolución</dt>
-        <dd class="col-sm-9">
-            @if (Model.FechaDevolucion.HasValue)
-            {
-                @Model.FechaDevolucion.Value.ToString("dd/MM/yyyy")
-            }
-            else
-            {
-                <span class="text-muted">Pendiente</span>
-            }
-        </dd>
-
         <dt class="col-sm-3">Estado</dt>
         <dd class="col-sm-9">
             @if (Model.FechaDevolucion == null)
@@ -39,11 +21,42 @@
             }
         </dd>
 
+        <dt class="col-sm-3">Nombre Usuario</dt>
+        <dd class="col-sm-9">@Model.NombreUsuario</dd>
+
+        <dt class="col-sm-3">Fecha Préstamo</dt>
+        <dd class="col-sm-9">@Model.FechaPrestamo.ToString("dd/MM/yyyy HH:mm")</dd>
+
+        <dt class="col-sm-3">Fecha Devolución</dt>
+        <dd class="col-sm-9">
+            @if (Model.FechaDevolucion.HasValue)
+            {
+                @Model.FechaDevolucion.Value.ToString("dd/MM/yyyy HH:mm")
+            }
+            else
+            {
+                <span class="text-muted">En curso</span>
+            }
+        </dd>
+
+        <dt class="col-sm-3">Dias prestados</dt>
+        <dd class="col-sm-9">
+            @if (Model.DiasPrestado.HasValue)
+            {
+                @Model.DiasPrestado
+            }
+            else
+            {
+                <span class="text-muted">Pendiente de entrega</span>
+            }
+
+       
+
         <dt class="col-sm-3">Libro</dt>
         <dd class="col-sm-9">
-            @if (Model.Libro != null)
+            @if (Model.NombreLibro != null)
             {
-                <span>📖 @Model.Libro.Titulo</span>
+                <span>📖 @Model.NombreLibro</span>
             }
             else
             {

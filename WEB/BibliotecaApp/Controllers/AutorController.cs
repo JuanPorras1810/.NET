@@ -9,12 +9,10 @@ using Microsoft.EntityFrameworkCore;
 public class AutorController : Controller
 {
     private readonly IAutorService _autorService;
-    private readonly ApplicationDbContext _context;
 
-    public AutorController(IAutorService autorService, ApplicationDbContext context)
+    public AutorController(IAutorService autorService)
     {
         _autorService = autorService;   
-        _context = context;
     }
 
     // GET: AUTORS
@@ -116,8 +114,7 @@ public class AutorController : Controller
             return NotFound();
         }
 
-        var viewModel = await _autorService
-            .ObtenerParaEliminarAsync(id.Value);
+        var viewModel = await _autorService.ObtenerParaEliminarAsync(id.Value);
 
         if (viewModel == null)
         {
@@ -141,10 +138,5 @@ public class AutorController : Controller
         }
 
         return RedirectToAction(nameof(Index));
-    }
-
-    private bool AutorExists(int? id)
-    {
-        return _context.Autores.Any(e => e.Id == id);
     }
 }
