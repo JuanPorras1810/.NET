@@ -7,5 +7,6 @@
         public DateTime FechaPrestamo { get; set; }
         public DateTime? FechaDevolucion { get; set; }
         public string NombreLibro { get; set; } = string.Empty;
+        public int? DiasPrestado { get; set; }
     }
 }

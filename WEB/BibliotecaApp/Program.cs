@@ -1,6 +1,7 @@
 using BibliotecaApp.Data;
 using BibliotecaApp.Services.AutorServices;
 using BibliotecaApp.Services.LibroServices;
+using BibliotecaApp.Services.PrestamoServices;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +13,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlSer
 
 builder.Services.AddScoped<IAutorService, AutorService>();
 builder.Services.AddScoped<ILibroService, LibroService>();
+builder.Services.AddScoped<IPrestamoService, PrestamoService>();
 
 var app = builder.Build();
 

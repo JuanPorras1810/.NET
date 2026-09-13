@@ -10,8 +10,8 @@ namespace BibliotecaApp.ViewModels.LibroViewModels
         [Display(Name = "Titulo")]
         public string Titulo { get; set; } = string.Empty;
 
-        [Required(ErrorMessage = "El titulo es obligatorio")]
-        [StringLength(15, ErrorMessage = "El titulo no puede exceder los 15 caracteres")]
+        [Required(ErrorMessage = "El ISBN es obligatorio")]
+        [StringLength(15, ErrorMessage = "El ISBN no puede exceder los 15 caracteres")]
         [Display(Name = "ISBN")]
         public string ISBN { get; set; } = string.Empty;
 

@@ -12,5 +12,6 @@
     <WebStackScaffolding_DbContextTypeFullName>BibliotecaApp.Data.ApplicationDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\juanp\Downloads\Biblioteca V6-20260913T140111Z-1-001\Biblioteca V6\BibliotecaApp\Properties\PublishProfiles\site91311-WebDeploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
