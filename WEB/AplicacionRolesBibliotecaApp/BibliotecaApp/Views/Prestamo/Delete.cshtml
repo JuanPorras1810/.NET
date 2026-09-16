@@ -1,0 +1,47 @@
+@model BibliotecaApp.ViewModels.PrestamoViewModels.PrestamoIndexViewModel
+
+@{
+    ViewData["Title"] = "Eliminar Préstamo";
+}
+
+<h2>¿Estás seguro de que deseas eliminar este préstamo?</h2>
+
+@if (Model.FechaDevolucion == null)
+{
+    <div class="alert alert-danger" role="alert">
+        <strong>⚠️ Advertencia:</strong> No se puede eliminar porque no se ha entregado el libro.
+    </div>
+}
+else
+{
+    <div class="alert alert-danger" role="alert">
+        <strong>⚠️ Advertencia:</strong> Esta acción no se puede deshacer.
+    </div>
+}
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">Nombre Usuario</dt>
+        <dd class="col-sm-9">@Model.NombreUsuario</dd>
+
+        <dt class="col-sm-3">Fecha Préstamo</dt>
+        <dd class="col-sm-9">@Model.FechaPrestamo.ToString("dd/MM/yyyy")</dd>
+
+        <dt class="col-sm-3">Fecha Devolución</dt>
+        <dd class="col-sm-9">@(Model.FechaDevolucion?.ToString("dd/MM/yyyy") ?? "Pendiente")</dd>
+
+        <dt class="col-sm-3">Libro</dt>
+        <dd class="col-sm-9">@(Model.NombreLibro)</dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+
+        @if (Model.FechaDevolucion != null)
+    {
+        <input type="submit" value="Eliminar" class="btn btn-danger" />
+    }
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>

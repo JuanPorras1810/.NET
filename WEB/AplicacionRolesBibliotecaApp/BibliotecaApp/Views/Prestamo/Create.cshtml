@@ -1,0 +1,41 @@
+@model BibliotecaApp.ViewModels.PrestamoViewModels.CrearEditarPrestamoViewModel
+
+@{
+    ViewData["Title"] = "Crear Préstamo";
+}
+
+<h2>Crear Nuevo Préstamo</h2>
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group mb-3">
+                <label asp-for="NombreUsuario" class="control-label"></label>
+                <input asp-for="NombreUsuario" class="form-control" />
+                <span asp-validation-for="NombreUsuario" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="LibroId" class="control-label">Libro</label>
+                <select asp-for="LibroId" class="form-select" asp-items="Model.Libros">
+                    <option value="">Seleccione...</option>
+                </select>
+                <span asp-validation-for="LibroId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

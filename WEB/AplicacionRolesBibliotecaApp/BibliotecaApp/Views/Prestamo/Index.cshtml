@@ -1,0 +1,67 @@
+@model IEnumerable<BibliotecaApp.ViewModels.PrestamoViewModels.PrestamoIndexViewModel>
+
+@{
+    ViewData["Title"] = "Prestamos";
+}
+
+<h2>Lista de Préstamos</h2>
+
+<p>
+    <form asp-action="Index" method="get" class="d-flex gap-2">
+        <input type="text" name="buscar" value="@ViewBag.Buscar"
+               placeholder="Buscar por nombre usuario..." class="form-control" style="max-width: 300px;" />
+        <button type="submit" class="btn btn-primary">Buscar</button>
+        <a asp-action="Index" class="btn btn-secondary">Limpiar</a>
+    </form>
+</p>
+
+@if (User.IsInRole("Administrador") || User.IsInRole("Bibliotecario"))
+{
+    <p>
+        <a asp-action="Create" class="btn btn-success">Crear Nuevo</a>
+    </p>
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre Usuario</th>
+            <th>Fecha Préstamo</th>
+            <th>Fecha Devolución</th>
+            <th>Libro</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.NombreUsuario</td>
+                <td>@item.FechaPrestamo.ToString("dd/MM/yyyy")</td>
+                <td>
+                    @if (item.FechaDevolucion.HasValue)
+                    {
+                        @item.FechaDevolucion.Value.ToString("dd/MM/yyyy")
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger text-white">Pendiente</span>
+                    }
+                </td>
+                <td>@item.NombreLibro</td>
+                <td>
+                    @if (User.IsInRole("Administrador") || User.IsInRole("Bibliotecario"))
+                    {
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">Detalles</a>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Editar</a>
+                    }
+
+                    @if (User.IsInRole("Administrador"))
+                    {
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Eliminar</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

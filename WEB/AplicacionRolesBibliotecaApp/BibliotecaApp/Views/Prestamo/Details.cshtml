@@ -1,0 +1,72 @@
+@model BibliotecaApp.ViewModels.PrestamoViewModels.PrestamoDetalleViewModel
+
+@{
+    ViewData["Title"] = "Detalles del Préstamo";
+}
+
+<h2>Detalles del Préstamo #@Model.Id</h2>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">Estado</dt>
+        <dd class="col-sm-9">
+            @if (Model.FechaDevolucion == null)
+            {
+                <span class="badge bg-danger fs-6">No Entregado</span>
+            }
+            else
+            {
+                <span class="badge bg-success fs-6">Entregado</span>
+            }
+        </dd>
+
+        <dt class="col-sm-3">Nombre Usuario</dt>
+        <dd class="col-sm-9">@Model.NombreUsuario</dd>
+
+        <dt class="col-sm-3">Fecha Préstamo</dt>
+        <dd class="col-sm-9">@Model.FechaPrestamo.ToString("dd/MM/yyyy HH:mm")</dd>
+
+        <dt class="col-sm-3">Fecha Devolución</dt>
+        <dd class="col-sm-9">
+            @if (Model.FechaDevolucion.HasValue)
+            {
+                @Model.FechaDevolucion.Value.ToString("dd/MM/yyyy HH:mm")
+            }
+            else
+            {
+                <span class="text-muted">En curso</span>
+            }
+        </dd>
+
+        <dt class="col-sm-3">Dias prestados</dt>
+        <dd class="col-sm-9">
+            @if (Model.DiasPrestado.HasValue)
+            {
+                @Model.DiasPrestado
+            }
+            else
+            {
+                <span class="text-muted">Pendiente de entrega</span>
+            }
+
+       
+
+        <dt class="col-sm-3">Libro</dt>
+        <dd class="col-sm-9">
+            @if (Model.NombreLibro != null)
+            {
+                <span>📖 @Model.NombreLibro</span>
+            }
+            else
+            {
+                <span class="text-muted">Sin libro asignado</span>
+            }
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Editar</a>
+    <a asp-action="Index" class="btn btn-secondary">Volver a la lista</a>
+</div>
