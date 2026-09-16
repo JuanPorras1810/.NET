@@ -1,0 +1,60 @@
+@model BibliotecaApp.ViewModels.PrestamoViewModels.CrearEditarPrestamoViewModel
+
+@{
+    ViewData["Title"] = "Editar Préstamo";
+}
+
+<h2>Editar Préstamo</h2>
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group mb-3">
+                <label asp-for="NombreUsuario" class="control-label"></label>
+                <input asp-for="NombreUsuario" class="form-control" readonly />
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="LibroId" class="control-label">Libro</label>
+                <select asp-for="LibroId" class="form-select" asp-items="Model.Libros" disabled></select>
+                <input type="hidden" asp-for="LibroId" />
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="FechaPrestamo" class="control-label"></label>
+                <input asp-for="FechaPrestamo" class="form-control" type="date" readonly />
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="FechaDevolucion" class="control-label"></label>
+                @if (Model.FechaDevolucion != null)
+                {
+                    <input asp-for="FechaDevolucion" class="form-control" type="date" readonly />
+                }
+                else
+                {
+                    <div class="input-group">
+                        <input asp-for="FechaDevolucion" id="fechaDevolucionInput" class="form-control" type="date" readonly />
+                        <button type="button" class="btn btn-outline-success" onclick="fechaDevolucionInput.valueAsDate = new Date()">
+                            Marcar Devolución
+                        </button>
+                    </div>
+                }
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

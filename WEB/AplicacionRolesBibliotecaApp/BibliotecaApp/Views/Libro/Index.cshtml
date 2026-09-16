@@ -1,0 +1,67 @@
+@model IEnumerable<BibliotecaApp.ViewModels.LibroViewModels.LIbroIndexViewModel>
+
+@{
+    ViewData["Title"] = "Libros";
+}
+
+<h2>Lista de Libros</h2>
+
+<p>
+    <form asp-action="Index" method="get" class="d-flex gap-2">
+        <select name="estado" class="form-select" style="max-width: 200px;" onchange="this.form.submit()">
+            <option value="">Seleccione...</option>
+            <option value="Disponible" selected="@(ViewBag.Estado == "Disponible")">Disponible</option>
+            <option value="No Disponible" selected="@(ViewBag.Estado == "No Disponible")">No Disponible</option>
+        </select>
+    </form>
+</p>
+
+@if (User.IsInRole("Administrador"))
+{
+    <p>
+        <a asp-action="Create" class="btn btn-success">Crear Nuevo</a>
+    </p>
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Título</th>
+            <th>ISBN</th>
+            <th>Año</th>
+            <th>Autor</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Titulo</td>
+                <td>@item.ISBN</td>
+                <td>@item.AnioPublicacion</td>
+                <td>@(item.NombreAutor)</td>
+                <td>
+                    @if (item.Estado == "No Disponible")
+                    {
+                        <span class="badge bg-danger">No Disponible</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-success">Disponible</span>
+                    }
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">Detalles</a>
+
+                    @if (User.IsInRole("Administrador"))
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Editar</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Eliminar</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

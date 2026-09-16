@@ -1,0 +1,38 @@
+@model BibliotecaApp.ViewModels.LibroViewModels.LibroDetalleViewModel
+
+@{
+    ViewData["Title"] = "Detalles del Libro";
+}
+
+<h2>Detalles de @Model.Titulo</h2>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">Título</dt>
+        <dd class="col-sm-9">@Model.Titulo</dd>
+
+        <dt class="col-sm-3">ISBN</dt>
+        <dd class="col-sm-9">@Model.ISBN</dd>
+
+        <dt class="col-sm-3">Año de Publicación</dt>
+        <dd class="col-sm-9">@Model.AnioPublicacion</dd>
+
+        <dt class="col-sm-3">Autor</dt>
+        <dd class="col-sm-9">
+            @if (Model.NombreAutor != null)
+            {
+                <span>✍️ @Model.NombreAutor</span>
+            }
+            else
+            {
+                <span class="text-muted">Sin autor asignado</span>
+            }
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Editar</a>
+    <a asp-action="Index" class="btn btn-secondary">Volver a la lista</a>
+</div>

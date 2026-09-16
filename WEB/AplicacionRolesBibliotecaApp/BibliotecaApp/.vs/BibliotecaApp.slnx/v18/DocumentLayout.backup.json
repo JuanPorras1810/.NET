@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\views\\usuarios\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\usuarios\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\viewmodels\\usuarioviewmodel\\crearusuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:viewmodels\\usuarioviewmodel\\crearusuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\views\\prestamo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\prestamo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|c:\\users\\juanp\\onedrive\\documents\\ejercicios c# juan sebastian porras merchan\\web\\biblioteca v8\\bibliotecaapp\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129C2273-9192-0729-8317-178FD2796832}|BibliotecaApp.csproj|solutionrelative:controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T00:38:17.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T00:38:09.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T00:38:06.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T00:32:10.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T00:30:58.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T00:27:47.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T00:20:34.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-16T00:13:52.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T23:53:10.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Views\\Usuarios\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuarios\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Views\\Usuarios\\Crear.cshtml",
+              "RelativeToolTip": "Views\\Usuarios\\Crear.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T23:52:39.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T23:36:37.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T23:51:28.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CrearUsuarioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\ViewModels\\UsuarioViewModel\\CrearUsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UsuarioViewModel\\CrearUsuarioViewModel.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\ViewModels\\UsuarioViewModel\\CrearUsuarioViewModel.cs",
+              "RelativeToolTip": "ViewModels\\UsuarioViewModel\\CrearUsuarioViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T23:50:32.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Views\\Prestamo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Prestamo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Views\\Prestamo\\Index.cshtml",
+              "RelativeToolTip": "Views\\Prestamo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T23:40:24.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Views\\Libro\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Libro\\Index.cshtml",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Views\\Libro\\Index.cshtml",
+              "RelativeToolTip": "Views\\Libro\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-15T23:39:02.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PrestamosController.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Controllers\\PrestamosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PrestamosController.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Controllers\\PrestamosController.cs",
+              "RelativeToolTip": "Controllers\\PrestamosController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAYwIUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T23:20:48.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "Controllers\\LibroController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAYwIkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T23:20:44.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\juanp\\OneDrive\\Documents\\Ejercicios C# Juan Sebastian Porras Merchan\\WEB\\Biblioteca V8\\BibliotecaApp\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "Controllers\\AutorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T23:20:29.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
